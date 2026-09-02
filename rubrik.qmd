@@ -1,0 +1,37 @@
+---
+title: "Rubrik Penilaian"
+description: "Kriteria penilaian proyek akhir Proses Bisnis."
+---
+
+## Rubrik proyek akhir
+
+| Kriteria | Bobot | Sangat baik | Cukup | Perlu perbaikan |
+|---|---:|---|---|---|
+| Ruang lingkup dan konteks | 10% | Batas, pelanggan, keluaran, dan tujuan jelas serta konsisten | Sebagian besar jelas, ada sedikit asumsi | Batas kabur atau tidak relevan |
+| Kualitas bukti | 15% | Sumber beragam, etis, dan dapat ditelusuri | Bukti cukup tetapi terbatas | Klaim dominan berbasis asumsi |
+| Model *as-is* | 15% | Benar, lengkap, tervalidasi, mudah dibaca | Ada kesalahan kecil atau variasi kurang | Sintaks/makna menghambat pemahaman |
+| Analisis masalah | 20% | Akar masalah dan dampak didukung bukti kuat | Analisis logis tetapi bukti belum lengkap | Gejala dianggap sebagai akar masalah |
+| Rancangan *to-be* | 20% | Menjawab akar masalah dan mempertimbangkan trade-off | Rancangan cukup relevan | Solusi tidak terhubung dengan analisis |
+| Implementasi dan KPI | 10% | Tahap, pemilik, risiko, dan ukuran operasional | Sebagian elemen tersedia | Rencana umum dan sulit dilaksanakan |
+| Komunikasi | 10% | Ringkas, visual, konsisten, semua anggota menguasai | Pesan utama terlihat | Sulit diikuti atau tidak dapat dijelaskan |
+| **Total** | **100%** | | | |
+
+## Skala nilai per kriteria
+
+- **4 — Sangat baik:** lengkap, tepat, dan berbasis bukti.
+- **3 — Baik:** memenuhi tujuan dengan kekurangan kecil.
+- **2 — Cukup:** sebagian tujuan tercapai, tetapi ada celah penting.
+- **1 — Perlu perbaikan:** bukti atau logika belum memadai.
+- **0 — Tidak tersedia:** komponen tidak diserahkan atau tidak relevan.
+
+Nilai berbobot dihitung sebagai:
+
+$$\text{Nilai akhir}=\sum\left(\frac{\text{skor kriteria}}{4}\times\text{bobot}\right)$$
+
+## Umpan balik antarteman
+
+Gunakan tiga pertanyaan:
+
+1. Bagian mana yang paling meyakinkan, dan bukti apa yang membuatnya kuat?
+2. Hubungan mana yang belum jelas antara bukti, masalah, dan solusi?
+3. Perubahan kecil apa yang paling meningkatkan kualitas artefak berikutnya?

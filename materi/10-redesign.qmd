@@ -1,0 +1,42 @@
+---
+title: "10 · Perancangan Ulang Proses"
+description: "Mengembangkan proses to-be dari masalah dan tujuan yang terukur."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu menghasilkan alternatif *redesign*, menilai konsekuensinya, dan membuat model *to-be* yang menjawab akar masalah.
+
+## Prinsip perbaikan
+
+- Hilangkan aktivitas yang tidak memberi nilai atau kontrol penting.
+- Gabungkan pekerjaan yang terfragmentasi tanpa alasan.
+- Paralelkan aktivitas yang tidak saling bergantung.
+- Tempatkan keputusan sedekat mungkin dengan informasi.
+- Kurangi serah-terima dan penginputan ulang.
+- Tangkap data sekali, gunakan secara terkendali di banyak titik.
+- Rancang pengecualian, bukan hanya jalur normal.
+
+## Matriks alternatif
+
+| Alternatif | Dampak | Usaha | Risiko | Bukti pendukung |
+|---|---:|---:|---:|---|
+| A | 1–5 | 1–5 | 1–5 | Data/temuan |
+| B | 1–5 | 1–5 | 1–5 | Data/temuan |
+
+::: {.activity-box}
+### Aktivitas kelas · Studio *to-be*
+
+Pilih dua akar masalah prioritas. Buat minimal tiga alternatif, termasuk satu perbaikan tanpa teknologi. Pilih alternatif berdasarkan kriteria yang disepakati, lalu gambarkan perubahan pada model *to-be*.
+:::
+
+## Uji konsistensi
+
+Setiap perubahan harus dapat ditelusuri melalui rantai:
+
+> Bukti → akar masalah → prinsip perbaikan → perubahan model → indikator hasil.
+
+::: {.callout-warning title="Jangan melompat ke solusi"}
+Teknologi dapat mempercepat proses yang salah. Pastikan aturan, peran, dan aliran informasi diperbaiki sebelum atau bersama otomasi.
+:::
+

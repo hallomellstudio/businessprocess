@@ -1,0 +1,44 @@
+---
+title: "08 · Analisis Kuantitatif"
+description: "Mengukur waktu, kapasitas, biaya, dan kualitas proses."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu menghitung indikator dasar, mengenali *bottleneck*, dan menghindari kesimpulan yang tidak didukung data.
+
+## Ukuran dasar
+
+| Ukuran | Makna | Rumus sederhana |
+|---|---|---|
+| Waktu siklus | Waktu dari awal hingga akhir kasus | selesai − mulai |
+| Waktu proses | Waktu saat kasus benar-benar dikerjakan | jumlah durasi aktivitas |
+| Waktu tunggu | Waktu tanpa pengerjaan | siklus − proses |
+| *Throughput* | Kasus selesai per satuan waktu | kasus / waktu |
+| Tingkat kesalahan | Proporsi keluaran yang tidak benar | kasus cacat / total kasus |
+
+Efisiensi waktu alir:
+
+$$\text{Flow efficiency}=\frac{\text{waktu proses}}{\text{waktu siklus}}\times 100\%$$
+
+Kapasitas aktivitas dengan $m$ sumber daya paralel dan waktu proses rata-rata $t$:
+
+$$\text{kapasitas}=\frac{m}{t}$$
+
+## Contoh singkat
+
+Sebuah permohonan selesai dalam 5 hari kerja. Total waktu pengerjaan aktifnya 6 jam atau 0,75 hari kerja. Efisiensi waktu alirnya adalah $0{,}75/5=15\%$. Artinya, fokus awal analisis sebaiknya bukan hanya mempercepat pekerjaan aktif, tetapi memahami 85% waktu lainnya.
+
+::: {.activity-box}
+### Aktivitas kelas · Temukan *bottleneck*
+
+Hitung kapasitas tiga aktivitas: verifikasi 6 kasus/jam, persetujuan 4 kasus/jam, dan pencatatan 8 kasus/jam. Tentukan *bottleneck*, kapasitas proses, serta dampak jika permintaan rata-rata 5 kasus/jam.
+:::
+
+## Waspadai
+
+- Rata-rata dapat menyembunyikan variasi dan kasus ekstrem.
+- Korelasi tidak otomatis menunjukkan sebab-akibat.
+- Data sistem dapat kehilangan pekerjaan manual.
+- Pengukuran harus memiliki definisi awal dan akhir yang konsisten.
+

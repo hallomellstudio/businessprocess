@@ -1,0 +1,95 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "materi/*.qmd"
+
+lang: id
+
+website:
+  title: "Proses Bisnis"
+  description: "Ruang belajar untuk memahami, memodelkan, menganalisis, dan memperbaiki proses bisnis."
+  site-url: "https://USERNAME.github.io/NAMA-REPOSITORY/"
+  repo-url: "https://github.com/USERNAME/NAMA-REPOSITORY"
+  repo-actions: [edit, issue]
+  page-navigation: true
+  back-to-top-navigation: true
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    pinned: true
+    background: primary
+    left:
+      - text: "Beranda"
+        href: index.qmd
+      - text: "Perkuliahan"
+        href: silabus.qmd
+      - text: "Materi"
+        href: materi/index.qmd
+      - text: "Penilaian"
+        menu:
+          - text: "Tugas"
+            href: tugas.qmd
+          - text: "Proyek Akhir"
+            href: proyek.qmd
+          - text: "Rubrik"
+            href: rubrik.qmd
+      - text: "Glosarium"
+        href: glosarium.qmd
+    right:
+      - icon: github
+        href: "https://github.com/USERNAME/NAMA-REPOSITORY"
+        aria-label: "Repositori GitHub"
+  sidebar:
+    - title: "Materi"
+      style: docked
+      collapse-level: 1
+      contents:
+        - materi/index.qmd
+        - section: "Fondasi"
+          contents:
+            - materi/01-pengantar.qmd
+            - materi/02-arsitektur.qmd
+            - materi/03-penemuan.qmd
+        - section: "Pemodelan"
+          contents:
+            - materi/04-bpmn-dasar.qmd
+            - materi/05-bpmn-lanjutan.qmd
+            - materi/06-validasi-model.qmd
+        - section: "Analisis"
+          contents:
+            - materi/07-analisis-kualitatif.qmd
+            - materi/08-analisis-kuantitatif.qmd
+            - materi/09-simulasi.qmd
+        - section: "Perbaikan & Implementasi"
+          contents:
+            - materi/10-redesign.qmd
+            - materi/11-otomasi.qmd
+            - materi/12-tata-kelola.qmd
+            - materi/13-process-mining.qmd
+            - materi/14-presentasi.qmd
+  page-footer:
+    left: "Materi kuliah Proses Bisnis"
+    right: "Dibangun dengan [Quarto](https://quarto.org/)"
+  open-graph: true
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    code-copy: true
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    fig-responsive: true
+
+execute:
+  freeze: auto

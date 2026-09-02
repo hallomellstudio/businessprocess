@@ -1,0 +1,88 @@
+---
+title: "Rencana Perkuliahan"
+description: "Tujuan, strategi belajar, jadwal, dan penilaian mata kuliah Proses Bisnis."
+---
+
+## Identitas mata kuliah
+
+| Komponen | Isi |
+|---|---|
+| Program studi | [NAMA PROGRAM STUDI] |
+| Kode mata kuliah | [KODE] |
+| Bobot | [3 SKS] |
+| Semester | [SEMESTER/TAHUN AKADEMIK] |
+| Dosen | [NAMA DOSEN] |
+| Kontak | [EMAIL / LMS] |
+| Waktu konsultasi | [HARI DAN JAM] |
+
+## Deskripsi
+
+Mata kuliah ini membahas cara organisasi menciptakan nilai melalui rangkaian aktivitas lintas fungsi. Mahasiswa mempelajari siklus manajemen proses bisnis: identifikasi, penemuan, pemodelan, analisis, perancangan ulang, implementasi, pemantauan, dan pengendalian. Pembelajaran berpusat pada kasus, latihan pemodelan, diskusi, dan proyek kelompok.
+
+## Capaian pembelajaran
+
+Pada akhir perkuliahan, mahasiswa mampu:
+
+1. **Memahami** konsep dan arsitektur proses bisnis.
+2. **Memodelkan** proses *as-is* dan *to-be* menggunakan BPMN secara konsisten.
+3. **Menganalisis** masalah proses dengan data kualitatif dan kuantitatif.
+4. **Merancang** perbaikan yang selaras dengan tujuan organisasi dan kebutuhan pemangku kepentingan.
+5. **Mengomunikasikan** rekomendasi secara visual, ringkas, dan berbasis bukti.
+
+## Strategi pembelajaran
+
+Setiap pertemuan mengikuti pola singkat berikut:
+
+```{mermaid}
+flowchart LR
+  A["Pemantik"] --> B["Konsep"]
+  B --> C["Latihan kasus"]
+  C --> D["Umpan balik"]
+  D --> E["Refleksi"]
+```
+
+Mahasiswa diharapkan membaca materi sebelum kelas, aktif saat latihan, dan menyimpan bukti perkembangan proyek pada repositori kelompok.
+
+## Jadwal 14 pertemuan
+
+| Pekan | Pokok bahasan | Produk belajar |
+|---:|---|---|
+| 1 | Cara berpikir proses | Kanvas batas proses |
+| 2 | Arsitektur dan portofolio proses | Peta proses organisasi |
+| 3 | Penemuan proses | Catatan wawancara dan SIPOC |
+| 4 | BPMN dasar | Model alur dasar |
+| 5 | BPMN lanjutan | Model kolaborasi lintas peran |
+| 6 | Validasi dan kualitas model | Daftar temuan validasi |
+| 7 | Analisis kualitatif | Akar masalah dan isu prioritas |
+| 8 | Analisis kuantitatif | Perhitungan kinerja proses |
+| 9 | Simulasi dan skenario | Perbandingan skenario |
+| 10 | Perancangan ulang proses | Model *to-be* |
+| 11 | Otomasi dan transformasi digital | Matriks peluang otomasi |
+| 12 | Tata kelola dan pengukuran | KPI dan pemilik proses |
+| 13 | Pengantar *process mining* | Interpretasi *event log* |
+| 14 | Presentasi proyek | Rekomendasi dan refleksi |
+
+## Penilaian
+
+| Komponen | Bobot | Bentuk |
+|---|---:|---|
+| Partisipasi dan latihan | 15% | Individu/kelompok |
+| Tugas pemodelan | 20% | Individu |
+| Ujian/analisis kasus tengah semester | 25% | Individu |
+| Proyek akhir | 35% | Kelompok |
+| Refleksi akhir | 5% | Individu |
+| **Total** | **100%** | |
+
+Detail instruksi tersedia pada halaman [Tugas](tugas.qmd), [Proyek Akhir](proyek.qmd), dan [Rubrik](rubrik.qmd).
+
+## Kesepakatan kelas
+
+- Gunakan data organisasi secara etis; anonimisasi nama orang dan informasi sensitif.
+- Nyatakan sumber ide, data, gambar, dan bantuan teknologi yang digunakan.
+- Berikan kritik pada proses atau artefak, bukan pada orangnya.
+- Jika ada kendala akses atau kebutuhan belajar tertentu, hubungi dosen sedini mungkin.
+
+::: {.callout-important title="Perlu disesuaikan"}
+Bobot, kebijakan kehadiran, aturan keterlambatan, dan ketentuan penggunaan AI perlu diselaraskan dengan kebijakan program studi Anda sebelum situs dipublikasikan.
+:::
+

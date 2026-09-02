@@ -1,0 +1,30 @@
+---
+title: "Glosarium"
+description: "Istilah penting dalam manajemen proses bisnis."
+---
+
+| Istilah | Makna ringkas |
+|---|---|
+| Aktivitas | Unit pekerjaan dalam proses |
+| *As-is* | Keadaan proses saat ini |
+| *Bottleneck* | Tahap yang membatasi kapasitas proses |
+| BPM | Disiplin untuk mengelola dan memperbaiki proses end-to-end |
+| BPMN | Notasi standar untuk memodelkan proses bisnis |
+| *Case* | Satu instans perjalanan proses, misalnya satu pesanan |
+| *Case ID* | Identitas unik sebuah kasus pada *event log* |
+| *Conformance checking* | Perbandingan perilaku aktual dengan model/aturan |
+| *Cycle time* | Waktu sejak kasus dimulai hingga selesai |
+| *Event* | Sesuatu yang terjadi dan memengaruhi alur proses |
+| *Event log* | Catatan peristiwa yang terhubung ke kasus dan waktu |
+| *Gateway* | Elemen BPMN untuk memecah atau menggabungkan alur |
+| KPI | Ukuran kinerja utama yang terkait dengan tujuan |
+| *Message flow* | Pertukaran pesan antar peserta dalam BPMN |
+| Pemilik proses | Peran yang bertanggung jawab atas hasil end-to-end |
+| *Process mining* | Analisis proses berdasarkan jejak peristiwa digital |
+| *Process discovery* | Pembentukan model proses dari *event log* |
+| SIPOC | Ringkasan Supplier–Input–Process–Output–Customer |
+| *Throughput* | Jumlah kasus selesai per satuan waktu |
+| *To-be* | Keadaan proses masa depan yang dirancang |
+| Waktu proses | Durasi saat kasus benar-benar dikerjakan |
+| Waktu tunggu | Durasi saat kasus belum dikerjakan |
+

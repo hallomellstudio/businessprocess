@@ -1,0 +1,40 @@
+---
+title: "11 · Otomasi dan Transformasi Digital"
+description: "Menentukan bagian proses yang layak diotomasi dan tetap membutuhkan keputusan manusia."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu menilai kesesuaian otomasi berdasarkan sifat tugas, kualitas data, risiko, dan kebutuhan manusia.
+
+## Matriks peluang otomasi
+
+| Karakteristik | Lebih cocok diotomasi | Perlu pertimbangan manusia |
+|---|---|---|
+| Aturan | Stabil dan eksplisit | Ambigu atau sering berubah |
+| Data | Terstruktur dan tersedia | Tidak lengkap atau kontekstual |
+| Volume | Tinggi dan berulang | Rendah atau unik |
+| Risiko | Dampak kesalahan terkendali | Dampak besar pada hak/keamanan |
+| Interaksi | Transaksional | Empati, negosiasi, atau kreativitas |
+
+## Spektrum intervensi
+
+1. **Standardisasi:** menyamakan definisi, format, dan aturan.
+2. **Integrasi:** mengurangi perpindahan data antarsistem.
+3. **Otomasi tugas:** menjalankan aturan berulang secara otomatis.
+4. **Dukungan keputusan:** memberikan informasi atau rekomendasi.
+5. **Redesign digital:** membentuk ulang pengalaman end-to-end.
+
+::: {.activity-box}
+### Aktivitas kelas · Otomasi yang dapat dijelaskan
+
+Pilih lima aktivitas dari model *as-is*. Nilai volume, kestabilan aturan, kualitas data, pengecualian, dan risiko. Usulkan bagian yang diotomasi, bagian yang memerlukan persetujuan manusia, dan mekanisme koreksi jika hasil salah.
+:::
+
+## Pertanyaan etika dan tata kelola
+
+- Siapa terdampak jika keputusan otomatis salah?
+- Dapatkah pengguna memahami dan menggugat keputusan?
+- Data apa yang diperlukan dan apakah penggunaannya proporsional?
+- Siapa yang memantau kinerja setelah implementasi?
+

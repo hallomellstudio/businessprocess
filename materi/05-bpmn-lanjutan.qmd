@@ -1,0 +1,43 @@
+---
+title: "05 · BPMN Lanjutan"
+description: "Memodelkan kolaborasi, pesan, waktu, dan penanganan pengecualian."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu memodelkan interaksi lintas peserta dan perilaku non-normal tanpa membuat diagram kehilangan keterbacaan.
+
+## Kolaborasi
+
+- **Pool** mewakili peserta atau organisasi yang independen.
+- **Lane** membagi tanggung jawab di dalam satu peserta.
+- **Message flow** menunjukkan pertukaran informasi antar-*pool*.
+- **Sequence flow** hanya digunakan di dalam satu *pool*.
+
+## Events yang berguna
+
+| Event | Contoh penggunaan |
+|---|---|
+| Message | Menunggu persetujuan atau konfirmasi eksternal |
+| Timer | Tenggat dua hari atau pengulangan terjadwal |
+| Error | Aktivitas gagal dan memerlukan penanganan |
+| Escalation | Masalah diteruskan tanpa selalu menghentikan proses |
+
+::: {.activity-box}
+### Aktivitas kelas · Kasus pengiriman
+
+Perluas model pemenuhan pesanan dengan pelanggan, toko, dan kurir sebagai peserta. Tambahkan batas waktu pembayaran, kegagalan stok, pesan konfirmasi, dan opsi pembatalan. Jelaskan mengapa setiap event diperlukan.
+:::
+
+## Prinsip keterbacaan
+
+1. Tampilkan hanya detail yang relevan dengan tujuan model.
+2. Gunakan subproses untuk menyembunyikan kerumitan.
+3. Pertahankan arah alur yang konsisten.
+4. Hindari garis bersilangan bila dapat ditata ulang.
+5. Tambahkan legenda hanya bila notasi nonstandar tidak dapat dihindari.
+
+## Cek pemahaman
+
+Mengapa pengiriman pesan dan perpindahan pekerjaan antar-*lane* mempunyai makna yang berbeda? Kapan sebuah *boundary timer event* lebih tepat daripada aktivitas “menunggu”?
+

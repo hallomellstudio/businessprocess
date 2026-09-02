@@ -1,0 +1,42 @@
+---
+title: "13 · Pengantar Process Mining"
+description: "Menggunakan event log untuk menemukan dan memeriksa proses aktual."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu menjelaskan struktur *event log* dan membedakan *process discovery*, *conformance checking*, dan *enhancement*.
+
+## Tiga data minimum
+
+| Kolom | Makna | Contoh |
+|---|---|---|
+| Case ID | Identitas satu perjalanan proses | ORD-1042 |
+| Activity | Aktivitas yang terjadi | Verifikasi pesanan |
+| Timestamp | Waktu peristiwa | 2026-08-14 09:32 |
+
+Kolom tambahan dapat mencakup sumber daya, biaya, kanal, kategori kasus, dan hasil aktivitas.
+
+## Tiga jenis analisis
+
+- **Discovery:** membentuk model dari jejak peristiwa.
+- **Conformance:** membandingkan jejak aktual dengan model atau aturan.
+- **Enhancement:** memperkaya model dengan waktu, frekuensi, atau kinerja.
+
+::: {.activity-box}
+### Aktivitas kelas · Membaca *event log*
+
+Dari tabel kecil yang disediakan dosen, urutkan peristiwa per kasus. Temukan variasi jalur, pengulangan, aktivitas yang dilewati, dan kasus dengan durasi terpanjang. Jelaskan temuan yang perlu diverifikasi melalui wawancara.
+:::
+
+## Kualitas dan etika data
+
+- Periksa zona waktu, duplikasi, dan definisi aktivitas.
+- Pastikan Case ID benar-benar menghubungkan satu kasus end-to-end.
+- Bedakan waktu pencatatan dari waktu pekerjaan dilakukan.
+- Minimalkan data pribadi dan batasi akses sesuai tujuan pembelajaran.
+
+::: {.callout-note title="Hubungan dengan model BPMN"}
+Model BPMN menjelaskan logika proses yang dimaksudkan atau dipahami. *Event log* menunjukkan jejak yang tercatat. Perbedaan keduanya adalah bahan investigasi, bukan otomatis kesalahan salah satu pihak.
+:::
+

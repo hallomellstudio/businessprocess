@@ -1,0 +1,42 @@
+---
+title: "04 · BPMN Dasar"
+description: "Membangun model proses dengan event, aktivitas, gateway, dan sequence flow."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu membaca dan membuat diagram BPMN dasar dengan sintaks dan makna yang konsisten.
+
+## Elemen minimum
+
+| Elemen | Makna | Aturan praktis |
+|---|---|---|
+| *Start event* | Proses mulai | Nyatakan pemicu yang jelas |
+| Aktivitas | Pekerjaan dilakukan | Gunakan kata kerja + objek |
+| *Gateway* | Percabangan/penggabungan | Tulis kondisi pada alur keluar |
+| *End event* | Proses selesai | Nyatakan hasil akhir |
+| *Sequence flow* | Urutan dalam satu proses | Jangan melintasi batas *pool* |
+
+### Gateway yang sering digunakan
+
+- **Exclusive (XOR):** tepat satu jalur dipilih.
+- **Parallel (AND):** semua jalur dijalankan secara paralel.
+- **Inclusive (OR):** satu atau beberapa jalur dapat dipilih.
+
+::: {.activity-box}
+### Aktivitas kelas · Dari narasi ke model
+
+Modelkan proses berikut: permintaan pembelian diterima; petugas memeriksa kelengkapan. Jika tidak lengkap, permintaan dikembalikan. Jika lengkap, anggaran dan ketersediaan barang diperiksa secara paralel. Pesanan dibuat hanya jika anggaran disetujui dan barang tersedia.
+:::
+
+## Pemeriksaan cepat
+
+- Apakah setiap aktivitas memiliki alur masuk dan keluar yang logis?
+- Apakah kondisi pada XOR saling eksklusif dan lengkap?
+- Apakah jalur paralel digabungkan kembali bila proses harus menunggu semuanya?
+- Apakah nama aktivitas menjawab “melakukan apa?”
+
+::: {.callout-tip title="Kebiasaan baik"}
+Utamakan makna sebelum tampilan. Diagram yang cantik tetapi ambigu tetap merupakan model yang lemah.
+:::
+

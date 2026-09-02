@@ -1,0 +1,42 @@
+---
+title: "06 · Validasi dan Kualitas Model"
+description: "Memeriksa sintaks, makna, kelengkapan, dan kegunaan model proses."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu melakukan *walkthrough*, menemukan cacat model, dan mendokumentasikan perubahan hasil validasi.
+
+## Empat lapis kualitas
+
+| Lapis | Pertanyaan |
+|---|---|
+| Sintaks | Apakah notasi digunakan sesuai aturan? |
+| Semantik | Apakah model sesuai dengan proses nyata? |
+| Pragmatik | Apakah pembaca yang dituju dapat memahaminya? |
+| Tujuan | Apakah model cukup untuk keputusan yang hendak dibuat? |
+
+### Teknik *token walkthrough*
+
+Letakkan token imajiner pada *start event*, lalu jalankan setiap kemungkinan kasus hingga *end event*. Periksa jalur buntu, aktivitas tanpa akhir, sinkronisasi yang salah, dan kondisi yang tidak lengkap.
+
+::: {.activity-box}
+### Aktivitas kelas · Klinik model
+
+Tukar model dengan kelompok lain. Satu orang membacakan alur hanya dari diagram; pemilik model tidak boleh menjelaskan selama lima menit. Catat asumsi, kebingungan, dan kesalahan menggunakan kategori: sintaks, semantik, pragmatik, atau tujuan.
+:::
+
+## Daftar periksa validasi
+
+- [ ] Ruang lingkup dan versi model tertulis.
+- [ ] Pemicu serta keluaran dapat diverifikasi.
+- [ ] Jalur normal dan pengecualian penting tercakup.
+- [ ] Peran dan serah-terima sesuai praktik.
+- [ ] Gateway memiliki kondisi yang jelas.
+- [ ] Istilah konsisten dengan bahasa organisasi.
+- [ ] Pemangku kepentingan telah menyetujui atau memberi catatan.
+
+## Bukti revisi
+
+Simpan *issue log* dengan kolom: ID, temuan, sumber, dampak, keputusan, pemilik tindak lanjut, dan status. Model yang valid adalah hasil percakapan berbasis bukti, bukan tebakan analis.
+

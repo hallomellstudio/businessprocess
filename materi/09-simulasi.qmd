@@ -1,0 +1,43 @@
+---
+title: "09 · Simulasi Proses"
+description: "Menguji skenario perubahan sebelum diterapkan."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu merumuskan skenario simulasi, memilih parameter, dan menafsirkan keluaran secara hati-hati.
+
+## Mengapa simulasi?
+
+Simulasi membantu menjawab pertanyaan “apa yang mungkin terjadi jika…?” ketika perilaku proses dipengaruhi variasi kedatangan, durasi aktivitas, aturan antrean, sumber daya, dan percabangan.
+
+```{mermaid}
+flowchart TD
+  A["Model as-is tervalidasi"] --> B["Parameter dan asumsi"]
+  B --> C["Jalankan skenario"]
+  C --> D["Bandingkan indikator"]
+  D --> E["Uji sensitivitas"]
+  E --> B
+```
+
+## Komponen skenario
+
+| Komponen | Contoh |
+|---|---|
+| Kedatangan kasus | 10 permohonan per jam |
+| Durasi aktivitas | 6–12 menit |
+| Sumber daya | 2 petugas verifikasi |
+| Probabilitas jalur | 15% perlu perbaikan |
+| Aturan antrean | Datang pertama, dilayani pertama |
+| Horizon | 20 hari kerja |
+
+::: {.activity-box}
+### Aktivitas kelas · Tiga skenario
+
+Untuk proses dengan antrean panjang, bandingkan: (A) menambah satu petugas, (B) mengurangi pekerjaan ulang, dan (C) mengubah aturan prioritas. Nyatakan asumsi, indikator keberhasilan, risiko, dan data yang harus dikumpulkan.
+:::
+
+## Interpretasi yang bertanggung jawab
+
+Simulasi bukan ramalan pasti. Hasilnya berlaku di bawah asumsi tertentu. Laporkan rentang hasil, jumlah pengulangan, skenario dasar, serta parameter yang paling sensitif.
+

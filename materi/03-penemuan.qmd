@@ -1,0 +1,43 @@
+---
+title: "03 · Penemuan Proses"
+description: "Mengumpulkan bukti tentang cara proses benar-benar dijalankan."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu memilih metode penemuan proses, melakukan wawancara terstruktur, dan membedakan prosedur resmi dari praktik aktual.
+
+## Sumber bukti
+
+| Metode | Kekuatan | Keterbatasan |
+|---|---|---|
+| Wawancara | Menjelaskan alasan dan variasi | Dipengaruhi ingatan dan sudut pandang |
+| Observasi | Menunjukkan praktik aktual | Membutuhkan waktu dan izin |
+| Dokumen | Memberi struktur dan aturan formal | Bisa tidak mutakhir |
+| Lokakarya | Menyatukan banyak perspektif | Aktor dominan dapat memengaruhi hasil |
+| Data sistem | Memberi jejak faktual berskala besar | Tidak menangkap pekerjaan di luar sistem |
+
+### Struktur wawancara
+
+1. Konfirmasi peran narasumber dan tujuan wawancara.
+2. Mulai dari satu kasus normal: “Apa yang memicu pekerjaan ini?”
+3. Telusuri aktivitas, keputusan, serah-terima, data, dan waktu tunggu.
+4. Tanyakan variasi dan pengecualian.
+5. Ringkas kembali hasil dan minta konfirmasi.
+
+::: {.callout-warning title="Etika pengumpulan data"}
+Minta izin sebelum merekam. Jangan menaruh nama personal, kredensial, atau data pelanggan pada artefak kelas. Gunakan peran dan data yang telah dianonimkan.
+:::
+
+::: {.activity-box}
+### Aktivitas kelas · Wawancara berpasangan
+
+Satu mahasiswa menjadi analis dan satu mahasiswa menjadi pelaksana proses. Lakukan wawancara tujuh menit tentang proses sederhana, kemudian buat SIPOC: *Supplier, Input, Process, Output, Customer*. Tukar peran dan evaluasi pertanyaannya.
+:::
+
+## Pertanyaan refleksi
+
+- Bukti apa yang masih belum tersedia?
+- Di bagian mana narasumber berbeda pendapat?
+- Apakah model mendeskripsikan prosedur ideal atau praktik aktual?
+

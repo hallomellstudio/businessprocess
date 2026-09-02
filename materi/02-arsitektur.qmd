@@ -1,0 +1,51 @@
+---
+title: "02 · Arsitektur Proses"
+description: "Memetakan proses inti, pendukung, dan manajerial."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu menyusun peta proses tingkat tinggi dan menghubungkan proses dengan tujuan strategis organisasi.
+
+## Tingkatan proses
+
+| Tingkat | Fokus | Contoh |
+|---|---|---|
+| *Process landscape* | Portofolio proses organisasi | Pemasaran, pemenuhan pesanan, layanan pelanggan |
+| Proses | Hasil end-to-end | Memenuhi pesanan pelanggan |
+| Subproses | Bagian bermakna dari proses | Menyiapkan pengiriman |
+| Aktivitas | Pekerjaan tertentu | Memverifikasi alamat |
+| Tugas | Langkah operasional | Memasukkan kode pos |
+
+### Kategori proses
+
+- **Inti:** langsung menciptakan nilai bagi pelanggan eksternal.
+- **Pendukung:** menyediakan sumber daya atau layanan internal.
+- **Manajerial:** mengarahkan, mengukur, dan mengendalikan organisasi.
+
+::: {.activity-box}
+### Aktivitas kelas · Peta proses
+
+Gunakan organisasi kampus atau bisnis yang dipahami kelompok. Buat peta berisi 3–5 proses inti, 3 proses pendukung, dan 2 proses manajerial. Hubungkan satu tujuan strategis dengan proses yang paling menentukan keberhasilannya.
+:::
+
+## Prioritas perbaikan
+
+Nilai setiap kandidat proses pada skala 1–5.
+
+| Kriteria | Pertanyaan |
+|---|---|
+| Kepentingan strategis | Seberapa besar proses memengaruhi tujuan utama? |
+| Masalah saat ini | Seberapa berat gangguan yang terjadi? |
+| Kelayakan perubahan | Apakah data, akses, waktu, dan dukungan tersedia? |
+
+Skor prioritas sederhana dapat dihitung sebagai:
+
+$$P = 0.4S + 0.35M + 0.25K$$
+
+dengan $S$ = strategis, $M$ = masalah, dan $K$ = kelayakan. Bobot perlu disesuaikan dengan konteks.
+
+## Cek pemahaman
+
+Apa perbedaan peta proses dan bagan organisasi? Mengapa proses dengan skor masalah tertinggi belum tentu menjadi prioritas pertama?
+

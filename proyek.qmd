@@ -1,0 +1,64 @@
+---
+title: "Proyek Akhir"
+description: "Proyek kelompok analisis dan perbaikan satu proses bisnis nyata."
+---
+
+## Tantangan
+
+Dalam kelompok, pilih satu proses nyata yang dapat dipelajari secara etis dan realistis selama satu semester. Dokumentasikan proses *as-is*, analisis masalah dengan bukti, lalu rancang proses *to-be* serta peta jalan implementasinya.
+
+## Kriteria objek proses
+
+Proses sebaiknya:
+
+- memiliki pelanggan dan keluaran yang dapat dijelaskan;
+- melibatkan minimal dua peran;
+- memiliki masalah atau peluang yang dapat diamati;
+- memungkinkan akses data tanpa membahayakan kerahasiaan;
+- cukup kecil untuk dianalisis, tetapi cukup kaya untuk diperbaiki.
+
+## Tahapan dan artefak
+
+| Tahap | Artefak minimum | Titik pemeriksaan |
+|---|---|---|
+| 1. Proposal | Batas proses, tujuan, akses, risiko etika | Pekan 2 |
+| 2. Penemuan | SIPOC, bukti, model awal *as-is* | Pekan 5 |
+| 3. Validasi | BPMN tervalidasi dan *issue log* | Pekan 7 |
+| 4. Analisis | Akar masalah dan kinerja dasar | Pekan 9 |
+| 5. Redesign | Alternatif dan model *to-be* | Pekan 11 |
+| 6. Rencana | KPI, risiko, tahapan implementasi | Pekan 13 |
+| 7. Presentasi | Laporan, diagram, dan *briefing* | Pekan 14 |
+
+## Struktur laporan akhir
+
+1. Ringkasan eksekutif
+2. Konteks, pelanggan, dan batas proses
+3. Metode serta sumber bukti
+4. Model dan validasi proses *as-is*
+5. Masalah, akar penyebab, dan ukuran kinerja
+6. Alternatif perbaikan dan alasan pemilihan
+7. Model proses *to-be*
+8. Dampak, KPI, risiko, dan rencana implementasi
+9. Keterbatasan dan refleksi
+10. Referensi dan lampiran penting
+
+## Aturan bukti
+
+Setiap klaim utama harus dapat ditelusuri ke observasi, wawancara, dokumen, data sistem, atau literatur. Bila data numerik tidak tersedia, nyatakan batasnya dengan jujur dan jelaskan cara pengukuran yang diusulkan.
+
+::: {.callout-important title="Kerahasiaan"}
+Jangan mengunggah data rahasia ke repositori publik. Gunakan data sintetis atau agregat untuk demonstrasi. Dokumen sensitif disimpan hanya pada kanal yang disetujui dosen dan pemilik data.
+:::
+
+## Definisi selesai
+
+Proyek dianggap selesai bila kelompok dapat menunjukkan hubungan yang konsisten:
+
+```{mermaid}
+flowchart LR
+  A["Bukti"] --> B["Masalah"]
+  B --> C["Akar penyebab"]
+  C --> D["Rancangan to-be"]
+  D --> E["KPI & implementasi"]
+```
+

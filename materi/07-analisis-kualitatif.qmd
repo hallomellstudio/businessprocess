@@ -1,0 +1,38 @@
+---
+title: "07 · Analisis Kualitatif"
+description: "Menemukan pemborosan, akar masalah, risiko, dan aktivitas tidak bernilai tambah."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu membedakan gejala dari penyebab dan memprioritaskan isu proses berdasarkan bukti.
+
+## Lensa analisis
+
+| Lensa | Pertanyaan pemantik |
+|---|---|
+| Nilai | Apakah aktivitas mengubah keluaran sesuai kebutuhan pelanggan? |
+| Waktu | Di mana pekerjaan menunggu atau diulang? |
+| Kualitas | Di mana kesalahan muncul dan ditemukan? |
+| Serah-terima | Informasi apa yang hilang saat berpindah peran? |
+| Risiko | Peristiwa apa yang menghambat tujuan proses? |
+| Kepatuhan | Kontrol apa yang wajib dipenuhi? |
+
+### Dari gejala ke akar masalah
+
+Gunakan *5 Whys* untuk menggali sebab, lalu kelompokkan penyebab pada aspek manusia, metode, teknologi, informasi, kebijakan, dan lingkungan. Jangan memaksakan lima jawaban; berhenti saat penyebab dapat diuji dan ditindaklanjuti.
+
+::: {.activity-box}
+### Aktivitas kelas · *Issue register*
+
+Pilih tiga masalah dari model *as-is*. Untuk setiap masalah, tulis bukti, dampak, frekuensi, dugaan akar penyebab, dan data tambahan yang dibutuhkan. Beri prioritas dengan matriks dampak–usaha.
+:::
+
+## Pernyataan masalah yang baik
+
+Gunakan pola:
+
+> Ketika **[kondisi]**, proses mengalami **[masalah terukur]**, sehingga **[dampak pada pelanggan/organisasi]**. Bukti awalnya adalah **[data atau pengamatan]**.
+
+Hindari menyisipkan solusi ke dalam pernyataan masalah. “Belum ada aplikasi” bukan akar masalah jika kebutuhan informasinya belum dipahami.
+

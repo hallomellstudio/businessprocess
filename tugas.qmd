@@ -1,0 +1,50 @@
+---
+title: "Tugas"
+description: "Instruksi tugas individu dan kelompok selama perkuliahan."
+---
+
+## Tugas 1 · Kanvas dan penemuan proses
+
+**Tujuan:** menentukan ruang lingkup proses dan mengumpulkan bukti awal.
+
+**Keluaran:** satu dokumen maksimal 4 halaman berisi:
+
+1. kanvas batas proses;
+2. SIPOC;
+3. daftar pemangku kepentingan;
+4. ringkasan bukti dari minimal dua sumber;
+5. asumsi dan informasi yang masih perlu diverifikasi.
+
+**Cek sebelum mengumpulkan:** nama proses berbentuk kata kerja + objek, pemicu dan akhir jelas, data personal telah dianonimkan, serta sumber bukti dicatat.
+
+## Tugas 2 · Model BPMN *as-is*
+
+**Tujuan:** mengomunikasikan cara proses berjalan saat ini.
+
+**Keluaran:** diagram BPMN, narasi ruang lingkup, tiga contoh kasus untuk *walkthrough*, dan *issue log* hasil validasi.
+
+Model harus memuat jalur normal, keputusan penting, serah-terima, dan pengecualian yang relevan. Hindari menambahkan detail yang tidak membantu tujuan analisis.
+
+## Tugas 3 · Analisis kinerja
+
+**Tujuan:** menghubungkan masalah dengan bukti kualitatif dan kuantitatif.
+
+**Keluaran:** laporan maksimal 6 halaman yang mencakup:
+
+- tiga masalah prioritas dan bukti pendukung;
+- analisis akar masalah;
+- minimal tiga ukuran kinerja;
+- satu perhitungan kapasitas, waktu, atau kualitas;
+- keterbatasan data dan rencana verifikasi.
+
+## Format pengumpulan
+
+- Gunakan nama berkas: `KELAS_NIM_JENISTUGAS.pdf`.
+- Sertakan versi sumber diagram yang dapat diedit.
+- Cantumkan kontribusi anggota untuk tugas kelompok.
+- Ikuti kanal dan tenggat yang ditetapkan dosen pada LMS.
+
+::: {.callout-note title="Tentang penggunaan AI"}
+Sesuaikan bagian ini dengan kebijakan institusi. Jika bantuan AI diizinkan, mahasiswa tetap bertanggung jawab memeriksa fakta, menjaga kerahasiaan data, mengungkapkan penggunaannya, dan mampu menjelaskan seluruh isi pekerjaannya.
+:::
+

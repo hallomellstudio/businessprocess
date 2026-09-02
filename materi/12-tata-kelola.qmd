@@ -1,0 +1,59 @@
+---
+title: "12 · Tata Kelola dan Pengukuran"
+description: "Menetapkan pemilik proses, indikator, kontrol, dan siklus perbaikan."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu menyusun sistem pengukuran yang seimbang dan menjelaskan peran tata kelola proses.
+
+## Peran utama
+
+| Peran | Tanggung jawab |
+|---|---|
+| Pemilik proses | Kinerja end-to-end dan prioritas perbaikan |
+| Manajer fungsi | Kapabilitas orang dan sumber daya fungsi |
+| Analis proses | Model, data, analisis, dan fasilitasi perubahan |
+| Pelaksana | Eksekusi pekerjaan dan umpan balik operasional |
+| Sponsor | Dukungan strategis dan penyelesaian hambatan |
+
+## Merancang KPI
+
+Gunakan pasangan indikator agar perbaikan satu dimensi tidak merusak yang lain.
+
+::: {.metric-grid}
+::: {.metric-card}
+### Waktu
+
+Waktu siklus, waktu tunggu, ketepatan tenggat.
+:::
+::: {.metric-card}
+### Kualitas
+
+Kesalahan, pekerjaan ulang, penyelesaian pertama.
+:::
+::: {.metric-card}
+### Nilai
+
+Kepuasan, keberhasilan pelanggan, hasil bisnis.
+:::
+:::
+
+::: {.activity-box}
+### Aktivitas kelas · *KPI tree*
+
+Mulai dari satu tujuan proses. Turunkan menjadi 2–4 indikator hasil dan indikator penggerak. Untuk setiap KPI, tentukan definisi, rumus, sumber data, frekuensi, pemilik, target, serta perilaku tidak diinginkan yang mungkin muncul.
+:::
+
+## Siklus pengendalian
+
+```{mermaid}
+flowchart LR
+  A["Ukur"] --> B["Bandingkan"]
+  B --> C["Pelajari penyimpangan"]
+  C --> D["Tindak lanjuti"]
+  D --> A
+```
+
+Target harus memicu pembelajaran dan tindakan. Dashboard tanpa percakapan, kepemilikan, dan tindak lanjut tidak menghasilkan perbaikan.
+

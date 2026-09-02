@@ -1,0 +1,51 @@
+---
+title: "01 · Cara Berpikir Proses"
+description: "Memahami proses, pelanggan, nilai, dan batas proses."
+---
+
+## Tujuan belajar
+
+Setelah pertemuan ini, mahasiswa mampu membedakan fungsi dan proses, menentukan batas proses, serta mengenali pelanggan dan nilai yang dihasilkan.
+
+## Ide utama
+
+**Proses bisnis** adalah rangkaian peristiwa dan aktivitas yang saling terkait untuk menghasilkan keluaran bernilai bagi pelanggan. Sudut pandang proses melintasi kotak-kotak fungsi organisasi.
+
+```{mermaid}
+flowchart LR
+  A["Kebutuhan pelanggan"] --> B["Pemicu"]
+  B --> C["Aktivitas lintas fungsi"]
+  C --> D["Keluaran"]
+  D --> E["Nilai bagi pelanggan"]
+```
+
+### Lima pertanyaan batas proses
+
+| Pertanyaan | Contoh proses pemenuhan pesanan |
+|---|---|
+| Apa pemicunya? | Pesanan terkonfirmasi |
+| Apa titik akhirnya? | Pesanan diterima pelanggan |
+| Siapa pelanggannya? | Pembeli |
+| Apa keluarannya? | Barang dan informasi pengiriman |
+| Siapa yang terlibat? | Penjualan, gudang, kurir, keuangan |
+
+::: {.activity-box}
+### Aktivitas kelas · *Process lens*
+
+Pilih proses yang dekat dengan kehidupan kampus: peminjaman ruang, pengajuan surat, atau peminjaman buku. Dalam kelompok, tuliskan pemicu, akhir, pelanggan, keluaran, dan minimal tiga aktor. Bandingkan hasil antarkelompok.
+:::
+
+## Cek pemahaman
+
+1. Mengapa “bagian keuangan” bukan sebuah proses?
+2. Kapan sebuah aktivitas menghasilkan nilai bagi pelanggan?
+3. Apa risiko jika batas proses terlalu sempit?
+
+::: {.callout-note collapse="true" title="Arah jawaban"}
+Fungsi adalah unit organisasi, sedangkan proses adalah aliran kerja end-to-end. Aktivitas bernilai bila membantu menghasilkan keluaran yang dibutuhkan pelanggan. Batas yang terlalu sempit dapat menyembunyikan perpindahan kerja, penundaan, dan penyebab masalah di luar satu fungsi.
+:::
+
+## Setelah kelas
+
+Buat **kanvas batas proses satu halaman** untuk calon objek proyek kelompok. Sertakan nama proses berbentuk kata kerja + objek, pemicu, keluaran, pelanggan, aktor, dan tiga masalah awal.
+

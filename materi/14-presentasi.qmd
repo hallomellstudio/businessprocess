@@ -1,0 +1,39 @@
+---
+title: "14 · Presentasi Rekomendasi"
+description: "Menyampaikan temuan dan rancangan perbaikan secara ringkas dan berbasis bukti."
+---
+
+## Tujuan belajar
+
+Mahasiswa mampu menyusun narasi rekomendasi, menjelaskan trade-off, dan merespons pertanyaan pemangku kepentingan.
+
+## Alur presentasi
+
+1. **Konteks:** proses, pelanggan, keluaran, dan batas.
+2. **Bukti:** data, model *as-is*, dan pengalaman pemangku kepentingan.
+3. **Masalah:** akar masalah prioritas dan dampaknya.
+4. **Rancangan:** model *to-be* serta perubahan utama.
+5. **Dampak:** indikator yang diharapkan membaik.
+6. **Implementasi:** tahap, pemilik, risiko, dan evaluasi.
+
+::: {.activity-box}
+### Aktivitas kelas · *Executive briefing*
+
+Sampaikan rekomendasi dalam tujuh menit dengan maksimal satu model *as-is*, satu model *to-be*, satu tabel bukti, dan satu peta jalan. Kelompok lain berperan sebagai sponsor, pengguna, dan pemilik proses.
+:::
+
+## Pertanyaan yang perlu siap dijawab
+
+- Bukti apa yang mendukung akar masalah?
+- Mengapa alternatif ini dipilih?
+- Apa dampak yang diharapkan dan bagaimana mengukurnya?
+- Siapa yang terdampak oleh perubahan?
+- Apa asumsi dan risiko terbesar?
+- Apa langkah kecil pertama yang dapat diuji?
+
+## Penutup
+
+Rekomendasi yang kuat tidak menjanjikan proses sempurna. Ia menunjukkan hubungan yang dapat ditelusuri antara fakta, keputusan desain, dampak yang diharapkan, dan cara belajar dari implementasi.
+
+Lihat [rubrik proyek](../rubrik.qmd) sebelum presentasi.
+
