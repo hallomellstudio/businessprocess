@@ -1,19 +1,18 @@
 ---
 title: "Rencana Perkuliahan"
-description: "Tujuan, strategi belajar, jadwal, dan penilaian mata kuliah Proses Bisnis."
+description: Mata kuliah ini bertujuan untuk memahami berbagai faktor yang berhubungan dengan pengenalan proses bisnis dan hubungannya dengan teknologi informasi khususnya dalam suatu Enterprise System. Mahasiswa diharapkan dapat memahami konsep dasar Sistem, informasi, dan sistem informasi, konsep manajemen proses, supply chain serta membuat pemodelan sistem informasi dengan menggunakan BPMN (software Bizagi).
 ---
 
 ## Identitas mata kuliah
 
 | Komponen | Isi |
 |---|---|
-| Program studi | [NAMA PROGRAM STUDI] |
-| Kode mata kuliah | [KODE] |
+| Program studi | S1 Teknik Informatika |
+| Kode mata kuliah | IN255 |
 | Bobot | [3 SKS] |
-| Semester | [SEMESTER/TAHUN AKADEMIK] |
-| Dosen | [NAMA DOSEN] |
-| Kontak | [EMAIL / LMS] |
-| Waktu konsultasi | [HARI DAN JAM] |
+| Semester | R20261 |
+| Dosen | Meliana |
+| Kontak | https://meliana.it.maranatha.edu/ |
 
 ## Deskripsi
 

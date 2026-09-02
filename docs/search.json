@@ -1,0 +1,1083 @@
+[
+  {
+    "objectID": "tugas.html",
+    "href": "tugas.html",
+    "title": "Tugas",
+    "section": "",
+    "text": "Tujuan: menentukan ruang lingkup proses dan mengumpulkan bukti awal.\nKeluaran: satu dokumen maksimal 4 halaman berisi:\n\nkanvas batas proses;\nSIPOC;\ndaftar pemangku kepentingan;\nringkasan bukti dari minimal dua sumber;\nasumsi dan informasi yang masih perlu diverifikasi.\n\nCek sebelum mengumpulkan: nama proses berbentuk kata kerja + objek, pemicu dan akhir jelas, data personal telah dianonimkan, serta sumber bukti dicatat."
+  },
+  {
+    "objectID": "tugas.html#tugas-1-kanvas-dan-penemuan-proses",
+    "href": "tugas.html#tugas-1-kanvas-dan-penemuan-proses",
+    "title": "Tugas",
+    "section": "",
+    "text": "Tujuan: menentukan ruang lingkup proses dan mengumpulkan bukti awal.\nKeluaran: satu dokumen maksimal 4 halaman berisi:\n\nkanvas batas proses;\nSIPOC;\ndaftar pemangku kepentingan;\nringkasan bukti dari minimal dua sumber;\nasumsi dan informasi yang masih perlu diverifikasi.\n\nCek sebelum mengumpulkan: nama proses berbentuk kata kerja + objek, pemicu dan akhir jelas, data personal telah dianonimkan, serta sumber bukti dicatat."
+  },
+  {
+    "objectID": "tugas.html#tugas-2-model-bpmn-as-is",
+    "href": "tugas.html#tugas-2-model-bpmn-as-is",
+    "title": "Tugas",
+    "section": "Tugas 2 · Model BPMN as-is",
+    "text": "Tugas 2 · Model BPMN as-is\nTujuan: mengomunikasikan cara proses berjalan saat ini.\nKeluaran: diagram BPMN, narasi ruang lingkup, tiga contoh kasus untuk walkthrough, dan issue log hasil validasi.\nModel harus memuat jalur normal, keputusan penting, serah-terima, dan pengecualian yang relevan. Hindari menambahkan detail yang tidak membantu tujuan analisis."
+  },
+  {
+    "objectID": "tugas.html#tugas-3-analisis-kinerja",
+    "href": "tugas.html#tugas-3-analisis-kinerja",
+    "title": "Tugas",
+    "section": "Tugas 3 · Analisis kinerja",
+    "text": "Tugas 3 · Analisis kinerja\nTujuan: menghubungkan masalah dengan bukti kualitatif dan kuantitatif.\nKeluaran: laporan maksimal 6 halaman yang mencakup:\n\ntiga masalah prioritas dan bukti pendukung;\nanalisis akar masalah;\nminimal tiga ukuran kinerja;\nsatu perhitungan kapasitas, waktu, atau kualitas;\nketerbatasan data dan rencana verifikasi."
+  },
+  {
+    "objectID": "tugas.html#format-pengumpulan",
+    "href": "tugas.html#format-pengumpulan",
+    "title": "Tugas",
+    "section": "Format pengumpulan",
+    "text": "Format pengumpulan\n\nGunakan nama berkas: KELAS_NIM_JENISTUGAS.pdf.\nSertakan versi sumber diagram yang dapat diedit.\nCantumkan kontribusi anggota untuk tugas kelompok.\nIkuti kanal dan tenggat yang ditetapkan dosen pada LMS.\n\n\n\n\n\n\n\nCatatanTentang penggunaan AI\n\n\n\nSesuaikan bagian ini dengan kebijakan institusi. Jika bantuan AI diizinkan, mahasiswa tetap bertanggung jawab memeriksa fakta, menjaga kerahasiaan data, mengungkapkan penggunaannya, dan mampu menjelaskan seluruh isi pekerjaannya."
+  },
+  {
+    "objectID": "rubrik.html",
+    "href": "rubrik.html",
+    "title": "Rubrik Penilaian",
+    "section": "",
+    "text": "Kriteria\nBobot\nSangat baik\nCukup\nPerlu perbaikan\n\n\n\n\nRuang lingkup dan konteks\n10%\nBatas, pelanggan, keluaran, dan tujuan jelas serta konsisten\nSebagian besar jelas, ada sedikit asumsi\nBatas kabur atau tidak relevan\n\n\nKualitas bukti\n15%\nSumber beragam, etis, dan dapat ditelusuri\nBukti cukup tetapi terbatas\nKlaim dominan berbasis asumsi\n\n\nModel as-is\n15%\nBenar, lengkap, tervalidasi, mudah dibaca\nAda kesalahan kecil atau variasi kurang\nSintaks/makna menghambat pemahaman\n\n\nAnalisis masalah\n20%\nAkar masalah dan dampak didukung bukti kuat\nAnalisis logis tetapi bukti belum lengkap\nGejala dianggap sebagai akar masalah\n\n\nRancangan to-be\n20%\nMenjawab akar masalah dan mempertimbangkan trade-off\nRancangan cukup relevan\nSolusi tidak terhubung dengan analisis\n\n\nImplementasi dan KPI\n10%\nTahap, pemilik, risiko, dan ukuran operasional\nSebagian elemen tersedia\nRencana umum dan sulit dilaksanakan\n\n\nKomunikasi\n10%\nRingkas, visual, konsisten, semua anggota menguasai\nPesan utama terlihat\nSulit diikuti atau tidak dapat dijelaskan\n\n\nTotal\n100%"
+  },
+  {
+    "objectID": "rubrik.html#rubrik-proyek-akhir",
+    "href": "rubrik.html#rubrik-proyek-akhir",
+    "title": "Rubrik Penilaian",
+    "section": "",
+    "text": "Kriteria\nBobot\nSangat baik\nCukup\nPerlu perbaikan\n\n\n\n\nRuang lingkup dan konteks\n10%\nBatas, pelanggan, keluaran, dan tujuan jelas serta konsisten\nSebagian besar jelas, ada sedikit asumsi\nBatas kabur atau tidak relevan\n\n\nKualitas bukti\n15%\nSumber beragam, etis, dan dapat ditelusuri\nBukti cukup tetapi terbatas\nKlaim dominan berbasis asumsi\n\n\nModel as-is\n15%\nBenar, lengkap, tervalidasi, mudah dibaca\nAda kesalahan kecil atau variasi kurang\nSintaks/makna menghambat pemahaman\n\n\nAnalisis masalah\n20%\nAkar masalah dan dampak didukung bukti kuat\nAnalisis logis tetapi bukti belum lengkap\nGejala dianggap sebagai akar masalah\n\n\nRancangan to-be\n20%\nMenjawab akar masalah dan mempertimbangkan trade-off\nRancangan cukup relevan\nSolusi tidak terhubung dengan analisis\n\n\nImplementasi dan KPI\n10%\nTahap, pemilik, risiko, dan ukuran operasional\nSebagian elemen tersedia\nRencana umum dan sulit dilaksanakan\n\n\nKomunikasi\n10%\nRingkas, visual, konsisten, semua anggota menguasai\nPesan utama terlihat\nSulit diikuti atau tidak dapat dijelaskan\n\n\nTotal\n100%"
+  },
+  {
+    "objectID": "rubrik.html#skala-nilai-per-kriteria",
+    "href": "rubrik.html#skala-nilai-per-kriteria",
+    "title": "Rubrik Penilaian",
+    "section": "Skala nilai per kriteria",
+    "text": "Skala nilai per kriteria\n\n4 — Sangat baik: lengkap, tepat, dan berbasis bukti.\n3 — Baik: memenuhi tujuan dengan kekurangan kecil.\n2 — Cukup: sebagian tujuan tercapai, tetapi ada celah penting.\n1 — Perlu perbaikan: bukti atau logika belum memadai.\n0 — Tidak tersedia: komponen tidak diserahkan atau tidak relevan.\n\nNilai berbobot dihitung sebagai:\n\\[\\text{Nilai akhir}=\\sum\\left(\\frac{\\text{skor kriteria}}{4}\\times\\text{bobot}\\right)\\]"
+  },
+  {
+    "objectID": "rubrik.html#umpan-balik-antarteman",
+    "href": "rubrik.html#umpan-balik-antarteman",
+    "title": "Rubrik Penilaian",
+    "section": "Umpan balik antarteman",
+    "text": "Umpan balik antarteman\nGunakan tiga pertanyaan:\n\nBagian mana yang paling meyakinkan, dan bukti apa yang membuatnya kuat?\nHubungan mana yang belum jelas antara bukti, masalah, dan solusi?\nPerubahan kecil apa yang paling meningkatkan kualitas artefak berikutnya?"
+  },
+  {
+    "objectID": "materi/index.html",
+    "href": "materi/index.html",
+    "title": "Peta Materi",
+    "section": "",
+    "text": "Gunakan halaman ini sebagai peta perjalanan. Setiap materi memuat tujuan, konsep inti, aktivitas kelas, dan cek pemahaman.",
+    "crumbs": [
+      "Materi",
+      "Peta Materi"
+    ]
+  },
+  {
+    "objectID": "materi/index.html#fondasi",
+    "href": "materi/index.html#fondasi",
+    "title": "Peta Materi",
+    "section": "Fondasi",
+    "text": "Fondasi\n\n\n01 · Cara berpikir proses\nDari fungsi organisasi menuju aliran nilai.\nBuka materi →\n\n\n02 · Arsitektur proses\nMenghubungkan strategi, proses, dan portofolio.\nBuka materi →\n\n\n03 · Penemuan proses\nMengumpulkan fakta melalui observasi dan wawancara.\nBuka materi →",
+    "crumbs": [
+      "Materi",
+      "Peta Materi"
+    ]
+  },
+  {
+    "objectID": "materi/index.html#pemodelan",
+    "href": "materi/index.html#pemodelan",
+    "title": "Peta Materi",
+    "section": "Pemodelan",
+    "text": "Pemodelan\n\n\n04 · BPMN dasar\nEvent, aktivitas, alur, dan gateway.\nBuka materi →\n\n\n05 · BPMN lanjutan\nKolaborasi, pesan, kejadian, dan pengecualian.\nBuka materi →\n\n\n06 · Validasi model\nMemastikan model benar, lengkap, dan mudah dibaca.\nBuka materi →",
+    "crumbs": [
+      "Materi",
+      "Peta Materi"
+    ]
+  },
+  {
+    "objectID": "materi/index.html#analisis",
+    "href": "materi/index.html#analisis",
+    "title": "Peta Materi",
+    "section": "Analisis",
+    "text": "Analisis\n\n\n07 · Analisis kualitatif\nNilai tambah, pemborosan, risiko, dan akar masalah.\nBuka materi →\n\n\n08 · Analisis kuantitatif\nWaktu siklus, kapasitas, biaya, dan kualitas.\nBuka materi →\n\n\n09 · Simulasi\nMenguji skenario sebelum perubahan diterapkan.\nBuka materi →",
+    "crumbs": [
+      "Materi",
+      "Peta Materi"
+    ]
+  },
+  {
+    "objectID": "materi/index.html#perbaikan-dan-implementasi",
+    "href": "materi/index.html#perbaikan-dan-implementasi",
+    "title": "Peta Materi",
+    "section": "Perbaikan dan implementasi",
+    "text": "Perbaikan dan implementasi\n\n\n10 · Redesign\nPrinsip dan pola perancangan ulang proses.\nBuka materi →\n\n\n11 · Otomasi\nMemilih peluang digitalisasi secara bertanggung jawab.\nBuka materi →\n\n\n12 · Tata kelola\nPemilik proses, KPI, kontrol, dan perbaikan berkelanjutan.\nBuka materi →\n\n\n13 · Process mining\nMelihat proses aktual melalui jejak peristiwa.\nBuka materi →\n\n\n14 · Presentasi\nMembuat rekomendasi yang jelas dan meyakinkan.\nBuka materi →",
+    "crumbs": [
+      "Materi",
+      "Peta Materi"
+    ]
+  },
+  {
+    "objectID": "materi/13-process-mining.html",
+    "href": "materi/13-process-mining.html",
+    "title": "13 · Pengantar Process Mining",
+    "section": "",
+    "text": "Mahasiswa mampu menjelaskan struktur event log dan membedakan process discovery, conformance checking, dan enhancement.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "13 · Pengantar Process Mining"
+    ]
+  },
+  {
+    "objectID": "materi/13-process-mining.html#tujuan-belajar",
+    "href": "materi/13-process-mining.html#tujuan-belajar",
+    "title": "13 · Pengantar Process Mining",
+    "section": "",
+    "text": "Mahasiswa mampu menjelaskan struktur event log dan membedakan process discovery, conformance checking, dan enhancement.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "13 · Pengantar Process Mining"
+    ]
+  },
+  {
+    "objectID": "materi/13-process-mining.html#tiga-data-minimum",
+    "href": "materi/13-process-mining.html#tiga-data-minimum",
+    "title": "13 · Pengantar Process Mining",
+    "section": "Tiga data minimum",
+    "text": "Tiga data minimum\n\n\n\nKolom\nMakna\nContoh\n\n\n\n\nCase ID\nIdentitas satu perjalanan proses\nORD-1042\n\n\nActivity\nAktivitas yang terjadi\nVerifikasi pesanan\n\n\nTimestamp\nWaktu peristiwa\n2026-08-14 09:32\n\n\n\nKolom tambahan dapat mencakup sumber daya, biaya, kanal, kategori kasus, dan hasil aktivitas.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "13 · Pengantar Process Mining"
+    ]
+  },
+  {
+    "objectID": "materi/13-process-mining.html#tiga-jenis-analisis",
+    "href": "materi/13-process-mining.html#tiga-jenis-analisis",
+    "title": "13 · Pengantar Process Mining",
+    "section": "Tiga jenis analisis",
+    "text": "Tiga jenis analisis\n\nDiscovery: membentuk model dari jejak peristiwa.\nConformance: membandingkan jejak aktual dengan model atau aturan.\nEnhancement: memperkaya model dengan waktu, frekuensi, atau kinerja.\n\n\nAktivitas kelas · Membaca event log\nDari tabel kecil yang disediakan dosen, urutkan peristiwa per kasus. Temukan variasi jalur, pengulangan, aktivitas yang dilewati, dan kasus dengan durasi terpanjang. Jelaskan temuan yang perlu diverifikasi melalui wawancara.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "13 · Pengantar Process Mining"
+    ]
+  },
+  {
+    "objectID": "materi/13-process-mining.html#kualitas-dan-etika-data",
+    "href": "materi/13-process-mining.html#kualitas-dan-etika-data",
+    "title": "13 · Pengantar Process Mining",
+    "section": "Kualitas dan etika data",
+    "text": "Kualitas dan etika data\n\nPeriksa zona waktu, duplikasi, dan definisi aktivitas.\nPastikan Case ID benar-benar menghubungkan satu kasus end-to-end.\nBedakan waktu pencatatan dari waktu pekerjaan dilakukan.\nMinimalkan data pribadi dan batasi akses sesuai tujuan pembelajaran.\n\n\n\n\n\n\n\nCatatanHubungan dengan model BPMN\n\n\n\nModel BPMN menjelaskan logika proses yang dimaksudkan atau dipahami. Event log menunjukkan jejak yang tercatat. Perbedaan keduanya adalah bahan investigasi, bukan otomatis kesalahan salah satu pihak.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "13 · Pengantar Process Mining"
+    ]
+  },
+  {
+    "objectID": "materi/11-otomasi.html",
+    "href": "materi/11-otomasi.html",
+    "title": "11 · Otomasi dan Transformasi Digital",
+    "section": "",
+    "text": "Mahasiswa mampu menilai kesesuaian otomasi berdasarkan sifat tugas, kualitas data, risiko, dan kebutuhan manusia.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "11 · Otomasi dan Transformasi Digital"
+    ]
+  },
+  {
+    "objectID": "materi/11-otomasi.html#tujuan-belajar",
+    "href": "materi/11-otomasi.html#tujuan-belajar",
+    "title": "11 · Otomasi dan Transformasi Digital",
+    "section": "",
+    "text": "Mahasiswa mampu menilai kesesuaian otomasi berdasarkan sifat tugas, kualitas data, risiko, dan kebutuhan manusia.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "11 · Otomasi dan Transformasi Digital"
+    ]
+  },
+  {
+    "objectID": "materi/11-otomasi.html#matriks-peluang-otomasi",
+    "href": "materi/11-otomasi.html#matriks-peluang-otomasi",
+    "title": "11 · Otomasi dan Transformasi Digital",
+    "section": "Matriks peluang otomasi",
+    "text": "Matriks peluang otomasi\n\n\n\n\n\n\n\n\nKarakteristik\nLebih cocok diotomasi\nPerlu pertimbangan manusia\n\n\n\n\nAturan\nStabil dan eksplisit\nAmbigu atau sering berubah\n\n\nData\nTerstruktur dan tersedia\nTidak lengkap atau kontekstual\n\n\nVolume\nTinggi dan berulang\nRendah atau unik\n\n\nRisiko\nDampak kesalahan terkendali\nDampak besar pada hak/keamanan\n\n\nInteraksi\nTransaksional\nEmpati, negosiasi, atau kreativitas",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "11 · Otomasi dan Transformasi Digital"
+    ]
+  },
+  {
+    "objectID": "materi/11-otomasi.html#spektrum-intervensi",
+    "href": "materi/11-otomasi.html#spektrum-intervensi",
+    "title": "11 · Otomasi dan Transformasi Digital",
+    "section": "Spektrum intervensi",
+    "text": "Spektrum intervensi\n\nStandardisasi: menyamakan definisi, format, dan aturan.\nIntegrasi: mengurangi perpindahan data antarsistem.\nOtomasi tugas: menjalankan aturan berulang secara otomatis.\nDukungan keputusan: memberikan informasi atau rekomendasi.\nRedesign digital: membentuk ulang pengalaman end-to-end.\n\n\nAktivitas kelas · Otomasi yang dapat dijelaskan\nPilih lima aktivitas dari model as-is. Nilai volume, kestabilan aturan, kualitas data, pengecualian, dan risiko. Usulkan bagian yang diotomasi, bagian yang memerlukan persetujuan manusia, dan mekanisme koreksi jika hasil salah.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "11 · Otomasi dan Transformasi Digital"
+    ]
+  },
+  {
+    "objectID": "materi/11-otomasi.html#pertanyaan-etika-dan-tata-kelola",
+    "href": "materi/11-otomasi.html#pertanyaan-etika-dan-tata-kelola",
+    "title": "11 · Otomasi dan Transformasi Digital",
+    "section": "Pertanyaan etika dan tata kelola",
+    "text": "Pertanyaan etika dan tata kelola\n\nSiapa terdampak jika keputusan otomatis salah?\nDapatkah pengguna memahami dan menggugat keputusan?\nData apa yang diperlukan dan apakah penggunaannya proporsional?\nSiapa yang memantau kinerja setelah implementasi?",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "11 · Otomasi dan Transformasi Digital"
+    ]
+  },
+  {
+    "objectID": "materi/09-simulasi.html",
+    "href": "materi/09-simulasi.html",
+    "title": "09 · Simulasi Proses",
+    "section": "",
+    "text": "Mahasiswa mampu merumuskan skenario simulasi, memilih parameter, dan menafsirkan keluaran secara hati-hati.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "09 · Simulasi Proses"
+    ]
+  },
+  {
+    "objectID": "materi/09-simulasi.html#tujuan-belajar",
+    "href": "materi/09-simulasi.html#tujuan-belajar",
+    "title": "09 · Simulasi Proses",
+    "section": "",
+    "text": "Mahasiswa mampu merumuskan skenario simulasi, memilih parameter, dan menafsirkan keluaran secara hati-hati.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "09 · Simulasi Proses"
+    ]
+  },
+  {
+    "objectID": "materi/09-simulasi.html#mengapa-simulasi",
+    "href": "materi/09-simulasi.html#mengapa-simulasi",
+    "title": "09 · Simulasi Proses",
+    "section": "Mengapa simulasi?",
+    "text": "Mengapa simulasi?\nSimulasi membantu menjawab pertanyaan “apa yang mungkin terjadi jika…?” ketika perilaku proses dipengaruhi variasi kedatangan, durasi aktivitas, aturan antrean, sumber daya, dan percabangan.\n\n\n\n\n\nflowchart TD\n  A[\"Model as-is tervalidasi\"] --&gt; B[\"Parameter dan asumsi\"]\n  B --&gt; C[\"Jalankan skenario\"]\n  C --&gt; D[\"Bandingkan indikator\"]\n  D --&gt; E[\"Uji sensitivitas\"]\n  E --&gt; B",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "09 · Simulasi Proses"
+    ]
+  },
+  {
+    "objectID": "materi/09-simulasi.html#komponen-skenario",
+    "href": "materi/09-simulasi.html#komponen-skenario",
+    "title": "09 · Simulasi Proses",
+    "section": "Komponen skenario",
+    "text": "Komponen skenario\n\n\n\nKomponen\nContoh\n\n\n\n\nKedatangan kasus\n10 permohonan per jam\n\n\nDurasi aktivitas\n6–12 menit\n\n\nSumber daya\n2 petugas verifikasi\n\n\nProbabilitas jalur\n15% perlu perbaikan\n\n\nAturan antrean\nDatang pertama, dilayani pertama\n\n\nHorizon\n20 hari kerja\n\n\n\n\nAktivitas kelas · Tiga skenario\nUntuk proses dengan antrean panjang, bandingkan: (A) menambah satu petugas, (B) mengurangi pekerjaan ulang, dan (C) mengubah aturan prioritas. Nyatakan asumsi, indikator keberhasilan, risiko, dan data yang harus dikumpulkan.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "09 · Simulasi Proses"
+    ]
+  },
+  {
+    "objectID": "materi/09-simulasi.html#interpretasi-yang-bertanggung-jawab",
+    "href": "materi/09-simulasi.html#interpretasi-yang-bertanggung-jawab",
+    "title": "09 · Simulasi Proses",
+    "section": "Interpretasi yang bertanggung jawab",
+    "text": "Interpretasi yang bertanggung jawab\nSimulasi bukan ramalan pasti. Hasilnya berlaku di bawah asumsi tertentu. Laporkan rentang hasil, jumlah pengulangan, skenario dasar, serta parameter yang paling sensitif.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "09 · Simulasi Proses"
+    ]
+  },
+  {
+    "objectID": "materi/07-analisis-kualitatif.html",
+    "href": "materi/07-analisis-kualitatif.html",
+    "title": "07 · Analisis Kualitatif",
+    "section": "",
+    "text": "Mahasiswa mampu membedakan gejala dari penyebab dan memprioritaskan isu proses berdasarkan bukti.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "07 · Analisis Kualitatif"
+    ]
+  },
+  {
+    "objectID": "materi/07-analisis-kualitatif.html#tujuan-belajar",
+    "href": "materi/07-analisis-kualitatif.html#tujuan-belajar",
+    "title": "07 · Analisis Kualitatif",
+    "section": "",
+    "text": "Mahasiswa mampu membedakan gejala dari penyebab dan memprioritaskan isu proses berdasarkan bukti.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "07 · Analisis Kualitatif"
+    ]
+  },
+  {
+    "objectID": "materi/07-analisis-kualitatif.html#lensa-analisis",
+    "href": "materi/07-analisis-kualitatif.html#lensa-analisis",
+    "title": "07 · Analisis Kualitatif",
+    "section": "Lensa analisis",
+    "text": "Lensa analisis\n\n\n\n\n\n\n\nLensa\nPertanyaan pemantik\n\n\n\n\nNilai\nApakah aktivitas mengubah keluaran sesuai kebutuhan pelanggan?\n\n\nWaktu\nDi mana pekerjaan menunggu atau diulang?\n\n\nKualitas\nDi mana kesalahan muncul dan ditemukan?\n\n\nSerah-terima\nInformasi apa yang hilang saat berpindah peran?\n\n\nRisiko\nPeristiwa apa yang menghambat tujuan proses?\n\n\nKepatuhan\nKontrol apa yang wajib dipenuhi?\n\n\n\n\nDari gejala ke akar masalah\nGunakan 5 Whys untuk menggali sebab, lalu kelompokkan penyebab pada aspek manusia, metode, teknologi, informasi, kebijakan, dan lingkungan. Jangan memaksakan lima jawaban; berhenti saat penyebab dapat diuji dan ditindaklanjuti.\n\n\nAktivitas kelas · Issue register\nPilih tiga masalah dari model as-is. Untuk setiap masalah, tulis bukti, dampak, frekuensi, dugaan akar penyebab, dan data tambahan yang dibutuhkan. Beri prioritas dengan matriks dampak–usaha.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "07 · Analisis Kualitatif"
+    ]
+  },
+  {
+    "objectID": "materi/07-analisis-kualitatif.html#pernyataan-masalah-yang-baik",
+    "href": "materi/07-analisis-kualitatif.html#pernyataan-masalah-yang-baik",
+    "title": "07 · Analisis Kualitatif",
+    "section": "Pernyataan masalah yang baik",
+    "text": "Pernyataan masalah yang baik\nGunakan pola:\n\nKetika [kondisi], proses mengalami [masalah terukur], sehingga [dampak pada pelanggan/organisasi]. Bukti awalnya adalah [data atau pengamatan].\n\nHindari menyisipkan solusi ke dalam pernyataan masalah. “Belum ada aplikasi” bukan akar masalah jika kebutuhan informasinya belum dipahami.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "07 · Analisis Kualitatif"
+    ]
+  },
+  {
+    "objectID": "materi/05-bpmn-lanjutan.html",
+    "href": "materi/05-bpmn-lanjutan.html",
+    "title": "05 · BPMN Lanjutan",
+    "section": "",
+    "text": "Mahasiswa mampu memodelkan interaksi lintas peserta dan perilaku non-normal tanpa membuat diagram kehilangan keterbacaan.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "05 · BPMN Lanjutan"
+    ]
+  },
+  {
+    "objectID": "materi/05-bpmn-lanjutan.html#tujuan-belajar",
+    "href": "materi/05-bpmn-lanjutan.html#tujuan-belajar",
+    "title": "05 · BPMN Lanjutan",
+    "section": "",
+    "text": "Mahasiswa mampu memodelkan interaksi lintas peserta dan perilaku non-normal tanpa membuat diagram kehilangan keterbacaan.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "05 · BPMN Lanjutan"
+    ]
+  },
+  {
+    "objectID": "materi/05-bpmn-lanjutan.html#kolaborasi",
+    "href": "materi/05-bpmn-lanjutan.html#kolaborasi",
+    "title": "05 · BPMN Lanjutan",
+    "section": "Kolaborasi",
+    "text": "Kolaborasi\n\nPool mewakili peserta atau organisasi yang independen.\nLane membagi tanggung jawab di dalam satu peserta.\nMessage flow menunjukkan pertukaran informasi antar-pool.\nSequence flow hanya digunakan di dalam satu pool.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "05 · BPMN Lanjutan"
+    ]
+  },
+  {
+    "objectID": "materi/05-bpmn-lanjutan.html#events-yang-berguna",
+    "href": "materi/05-bpmn-lanjutan.html#events-yang-berguna",
+    "title": "05 · BPMN Lanjutan",
+    "section": "Events yang berguna",
+    "text": "Events yang berguna\n\n\n\nEvent\nContoh penggunaan\n\n\n\n\nMessage\nMenunggu persetujuan atau konfirmasi eksternal\n\n\nTimer\nTenggat dua hari atau pengulangan terjadwal\n\n\nError\nAktivitas gagal dan memerlukan penanganan\n\n\nEscalation\nMasalah diteruskan tanpa selalu menghentikan proses\n\n\n\n\nAktivitas kelas · Kasus pengiriman\nPerluas model pemenuhan pesanan dengan pelanggan, toko, dan kurir sebagai peserta. Tambahkan batas waktu pembayaran, kegagalan stok, pesan konfirmasi, dan opsi pembatalan. Jelaskan mengapa setiap event diperlukan.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "05 · BPMN Lanjutan"
+    ]
+  },
+  {
+    "objectID": "materi/05-bpmn-lanjutan.html#prinsip-keterbacaan",
+    "href": "materi/05-bpmn-lanjutan.html#prinsip-keterbacaan",
+    "title": "05 · BPMN Lanjutan",
+    "section": "Prinsip keterbacaan",
+    "text": "Prinsip keterbacaan\n\nTampilkan hanya detail yang relevan dengan tujuan model.\nGunakan subproses untuk menyembunyikan kerumitan.\nPertahankan arah alur yang konsisten.\nHindari garis bersilangan bila dapat ditata ulang.\nTambahkan legenda hanya bila notasi nonstandar tidak dapat dihindari.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "05 · BPMN Lanjutan"
+    ]
+  },
+  {
+    "objectID": "materi/05-bpmn-lanjutan.html#cek-pemahaman",
+    "href": "materi/05-bpmn-lanjutan.html#cek-pemahaman",
+    "title": "05 · BPMN Lanjutan",
+    "section": "Cek pemahaman",
+    "text": "Cek pemahaman\nMengapa pengiriman pesan dan perpindahan pekerjaan antar-lane mempunyai makna yang berbeda? Kapan sebuah boundary timer event lebih tepat daripada aktivitas “menunggu”?",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "05 · BPMN Lanjutan"
+    ]
+  },
+  {
+    "objectID": "materi/03-penemuan.html",
+    "href": "materi/03-penemuan.html",
+    "title": "03 · Penemuan Proses",
+    "section": "",
+    "text": "Mahasiswa mampu memilih metode penemuan proses, melakukan wawancara terstruktur, dan membedakan prosedur resmi dari praktik aktual.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "03 · Penemuan Proses"
+    ]
+  },
+  {
+    "objectID": "materi/03-penemuan.html#tujuan-belajar",
+    "href": "materi/03-penemuan.html#tujuan-belajar",
+    "title": "03 · Penemuan Proses",
+    "section": "",
+    "text": "Mahasiswa mampu memilih metode penemuan proses, melakukan wawancara terstruktur, dan membedakan prosedur resmi dari praktik aktual.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "03 · Penemuan Proses"
+    ]
+  },
+  {
+    "objectID": "materi/03-penemuan.html#sumber-bukti",
+    "href": "materi/03-penemuan.html#sumber-bukti",
+    "title": "03 · Penemuan Proses",
+    "section": "Sumber bukti",
+    "text": "Sumber bukti\n\n\n\n\n\n\n\n\nMetode\nKekuatan\nKeterbatasan\n\n\n\n\nWawancara\nMenjelaskan alasan dan variasi\nDipengaruhi ingatan dan sudut pandang\n\n\nObservasi\nMenunjukkan praktik aktual\nMembutuhkan waktu dan izin\n\n\nDokumen\nMemberi struktur dan aturan formal\nBisa tidak mutakhir\n\n\nLokakarya\nMenyatukan banyak perspektif\nAktor dominan dapat memengaruhi hasil\n\n\nData sistem\nMemberi jejak faktual berskala besar\nTidak menangkap pekerjaan di luar sistem\n\n\n\n\nStruktur wawancara\n\nKonfirmasi peran narasumber dan tujuan wawancara.\nMulai dari satu kasus normal: “Apa yang memicu pekerjaan ini?”\nTelusuri aktivitas, keputusan, serah-terima, data, dan waktu tunggu.\nTanyakan variasi dan pengecualian.\nRingkas kembali hasil dan minta konfirmasi.\n\n\n\n\n\n\n\nPeringatanEtika pengumpulan data\n\n\n\nMinta izin sebelum merekam. Jangan menaruh nama personal, kredensial, atau data pelanggan pada artefak kelas. Gunakan peran dan data yang telah dianonimkan.\n\n\n\n\nAktivitas kelas · Wawancara berpasangan\nSatu mahasiswa menjadi analis dan satu mahasiswa menjadi pelaksana proses. Lakukan wawancara tujuh menit tentang proses sederhana, kemudian buat SIPOC: Supplier, Input, Process, Output, Customer. Tukar peran dan evaluasi pertanyaannya.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "03 · Penemuan Proses"
+    ]
+  },
+  {
+    "objectID": "materi/03-penemuan.html#pertanyaan-refleksi",
+    "href": "materi/03-penemuan.html#pertanyaan-refleksi",
+    "title": "03 · Penemuan Proses",
+    "section": "Pertanyaan refleksi",
+    "text": "Pertanyaan refleksi\n\nBukti apa yang masih belum tersedia?\nDi bagian mana narasumber berbeda pendapat?\nApakah model mendeskripsikan prosedur ideal atau praktik aktual?",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "03 · Penemuan Proses"
+    ]
+  },
+  {
+    "objectID": "materi/01-pengantar.html",
+    "href": "materi/01-pengantar.html",
+    "title": "01 · Cara Berpikir Proses",
+    "section": "",
+    "text": "Setelah pertemuan ini, mahasiswa mampu membedakan fungsi dan proses, menentukan batas proses, serta mengenali pelanggan dan nilai yang dihasilkan.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "01 · Cara Berpikir Proses"
+    ]
+  },
+  {
+    "objectID": "materi/01-pengantar.html#tujuan-belajar",
+    "href": "materi/01-pengantar.html#tujuan-belajar",
+    "title": "01 · Cara Berpikir Proses",
+    "section": "",
+    "text": "Setelah pertemuan ini, mahasiswa mampu membedakan fungsi dan proses, menentukan batas proses, serta mengenali pelanggan dan nilai yang dihasilkan.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "01 · Cara Berpikir Proses"
+    ]
+  },
+  {
+    "objectID": "materi/01-pengantar.html#ide-utama",
+    "href": "materi/01-pengantar.html#ide-utama",
+    "title": "01 · Cara Berpikir Proses",
+    "section": "Ide utama",
+    "text": "Ide utama\nProses bisnis adalah rangkaian peristiwa dan aktivitas yang saling terkait untuk menghasilkan keluaran bernilai bagi pelanggan. Sudut pandang proses melintasi kotak-kotak fungsi organisasi.\n\n\n\n\n\nflowchart LR\n  A[\"Kebutuhan pelanggan\"] --&gt; B[\"Pemicu\"]\n  B --&gt; C[\"Aktivitas lintas fungsi\"]\n  C --&gt; D[\"Keluaran\"]\n  D --&gt; E[\"Nilai bagi pelanggan\"]\n\n\n\n\n\n\n\nLima pertanyaan batas proses\n\n\n\nPertanyaan\nContoh proses pemenuhan pesanan\n\n\n\n\nApa pemicunya?\nPesanan terkonfirmasi\n\n\nApa titik akhirnya?\nPesanan diterima pelanggan\n\n\nSiapa pelanggannya?\nPembeli\n\n\nApa keluarannya?\nBarang dan informasi pengiriman\n\n\nSiapa yang terlibat?\nPenjualan, gudang, kurir, keuangan\n\n\n\n\n\nAktivitas kelas · Process lens\nPilih proses yang dekat dengan kehidupan kampus: peminjaman ruang, pengajuan surat, atau peminjaman buku. Dalam kelompok, tuliskan pemicu, akhir, pelanggan, keluaran, dan minimal tiga aktor. Bandingkan hasil antarkelompok.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "01 · Cara Berpikir Proses"
+    ]
+  },
+  {
+    "objectID": "materi/01-pengantar.html#cek-pemahaman",
+    "href": "materi/01-pengantar.html#cek-pemahaman",
+    "title": "01 · Cara Berpikir Proses",
+    "section": "Cek pemahaman",
+    "text": "Cek pemahaman\n\nMengapa “bagian keuangan” bukan sebuah proses?\nKapan sebuah aktivitas menghasilkan nilai bagi pelanggan?\nApa risiko jika batas proses terlalu sempit?\n\n\n\n\n\n\n\nCatatanArah jawaban\n\n\n\n\n\nFungsi adalah unit organisasi, sedangkan proses adalah aliran kerja end-to-end. Aktivitas bernilai bila membantu menghasilkan keluaran yang dibutuhkan pelanggan. Batas yang terlalu sempit dapat menyembunyikan perpindahan kerja, penundaan, dan penyebab masalah di luar satu fungsi.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "01 · Cara Berpikir Proses"
+    ]
+  },
+  {
+    "objectID": "materi/01-pengantar.html#setelah-kelas",
+    "href": "materi/01-pengantar.html#setelah-kelas",
+    "title": "01 · Cara Berpikir Proses",
+    "section": "Setelah kelas",
+    "text": "Setelah kelas\nBuat kanvas batas proses satu halaman untuk calon objek proyek kelompok. Sertakan nama proses berbentuk kata kerja + objek, pemicu, keluaran, pelanggan, aktor, dan tiga masalah awal.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "01 · Cara Berpikir Proses"
+    ]
+  },
+  {
+    "objectID": "glosarium.html",
+    "href": "glosarium.html",
+    "title": "Glosarium",
+    "section": "",
+    "text": "Istilah\nMakna ringkas\n\n\n\n\nAktivitas\nUnit pekerjaan dalam proses\n\n\nAs-is\nKeadaan proses saat ini\n\n\nBottleneck\nTahap yang membatasi kapasitas proses\n\n\nBPM\nDisiplin untuk mengelola dan memperbaiki proses end-to-end\n\n\nBPMN\nNotasi standar untuk memodelkan proses bisnis\n\n\nCase\nSatu instans perjalanan proses, misalnya satu pesanan\n\n\nCase ID\nIdentitas unik sebuah kasus pada event log\n\n\nConformance checking\nPerbandingan perilaku aktual dengan model/aturan\n\n\nCycle time\nWaktu sejak kasus dimulai hingga selesai\n\n\nEvent\nSesuatu yang terjadi dan memengaruhi alur proses\n\n\nEvent log\nCatatan peristiwa yang terhubung ke kasus dan waktu\n\n\nGateway\nElemen BPMN untuk memecah atau menggabungkan alur\n\n\nKPI\nUkuran kinerja utama yang terkait dengan tujuan\n\n\nMessage flow\nPertukaran pesan antar peserta dalam BPMN\n\n\nPemilik proses\nPeran yang bertanggung jawab atas hasil end-to-end\n\n\nProcess mining\nAnalisis proses berdasarkan jejak peristiwa digital\n\n\nProcess discovery\nPembentukan model proses dari event log\n\n\nSIPOC\nRingkasan Supplier–Input–Process–Output–Customer\n\n\nThroughput\nJumlah kasus selesai per satuan waktu\n\n\nTo-be\nKeadaan proses masa depan yang dirancang\n\n\nWaktu proses\nDurasi saat kasus benar-benar dikerjakan\n\n\nWaktu tunggu\nDurasi saat kasus belum dikerjakan\n\n\n\n\n\n\n Kembali ke atas"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Proses Bisnis",
+    "section": "",
+    "text": "Ruang belajar • Semester [TAHUN/SEMESTER]\n\n\nKita akan belajar membaca cara organisasi bekerja, menggambarkannya secara jelas, menemukan masalah, lalu merancang proses yang lebih baik.\n\nMulai dari materi pertama Lihat rencana kuliah"
+  },
+  {
+    "objectID": "index.html#orientasi-cepat",
+    "href": "index.html#orientasi-cepat",
+    "title": "Proses Bisnis",
+    "section": "Orientasi cepat",
+    "text": "Orientasi cepat\n\n\n\n14\n\n\nPertemuan\nDari cara berpikir proses hingga presentasi rancangan perbaikan.\n\n\n\n\n4\n\n\nTahap belajar\nTemukan, modelkan, analisis, dan perbaiki proses.\n\n\n\n\n1\n\n\nProyek utama\nAnalisis proses nyata dan usulkan perubahan yang dapat dipertanggungjawabkan."
+  },
+  {
+    "objectID": "index.html#perjalanan-belajar",
+    "href": "index.html#perjalanan-belajar",
+    "title": "Proses Bisnis",
+    "section": "Perjalanan belajar",
+    "text": "Perjalanan belajar\n\n\nTemukan\nPahami konteks, pelanggan, aktor, dan batas proses.\n\n\nModelkan\nRepresentasikan proses menggunakan BPMN dan artefak pendukung.\n\n\nAnalisis\nUji waktu, biaya, kualitas, risiko, dan akar masalah.\n\n\nPerbaiki\nRancang proses masa depan dan rencana implementasinya."
+  },
+  {
+    "objectID": "index.html#mulai-minggu-ini",
+    "href": "index.html#mulai-minggu-ini",
+    "title": "Proses Bisnis",
+    "section": "Mulai minggu ini",
+    "text": "Mulai minggu ini\n\n\n\n\n\n\nTipUntuk mahasiswa\n\n\n\nBaca tujuan belajar pada Pertemuan 1, siapkan satu contoh proses yang sering kamu alami, lalu catat pelanggan, pemicu, keluaran, dan masalah utamanya.\n\n\n\n\n\n\n\n\nCatatanUntuk dosen\n\n\n\nGanti teks dalam tanda kurung siku pada _quarto.yml, index.qmd, dan silabus.qmd. Seluruh materi dapat langsung disunting sebagai Markdown."
+  },
+  {
+    "objectID": "index.html#hasil-akhir-mata-kuliah",
+    "href": "index.html#hasil-akhir-mata-kuliah",
+    "title": "Proses Bisnis",
+    "section": "Hasil akhir mata kuliah",
+    "text": "Hasil akhir mata kuliah\nSetelah menyelesaikan mata kuliah ini, mahasiswa diharapkan mampu:\n\nmenjelaskan hubungan proses, nilai, pelanggan, dan strategi organisasi;\nmenemukan serta mendokumentasikan proses melalui observasi dan wawancara;\nmembuat dan memvalidasi model BPMN yang mudah dipahami;\nmenganalisis kinerja serta akar masalah dengan bukti;\nmerancang proses to-be beserta prioritas dan rencana implementasinya."
+  },
+  {
+    "objectID": "materi/02-arsitektur.html",
+    "href": "materi/02-arsitektur.html",
+    "title": "02 · Arsitektur Proses",
+    "section": "",
+    "text": "Mahasiswa mampu menyusun peta proses tingkat tinggi dan menghubungkan proses dengan tujuan strategis organisasi.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "02 · Arsitektur Proses"
+    ]
+  },
+  {
+    "objectID": "materi/02-arsitektur.html#tujuan-belajar",
+    "href": "materi/02-arsitektur.html#tujuan-belajar",
+    "title": "02 · Arsitektur Proses",
+    "section": "",
+    "text": "Mahasiswa mampu menyusun peta proses tingkat tinggi dan menghubungkan proses dengan tujuan strategis organisasi.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "02 · Arsitektur Proses"
+    ]
+  },
+  {
+    "objectID": "materi/02-arsitektur.html#tingkatan-proses",
+    "href": "materi/02-arsitektur.html#tingkatan-proses",
+    "title": "02 · Arsitektur Proses",
+    "section": "Tingkatan proses",
+    "text": "Tingkatan proses\n\n\n\n\n\n\n\n\nTingkat\nFokus\nContoh\n\n\n\n\nProcess landscape\nPortofolio proses organisasi\nPemasaran, pemenuhan pesanan, layanan pelanggan\n\n\nProses\nHasil end-to-end\nMemenuhi pesanan pelanggan\n\n\nSubproses\nBagian bermakna dari proses\nMenyiapkan pengiriman\n\n\nAktivitas\nPekerjaan tertentu\nMemverifikasi alamat\n\n\nTugas\nLangkah operasional\nMemasukkan kode pos\n\n\n\n\nKategori proses\n\nInti: langsung menciptakan nilai bagi pelanggan eksternal.\nPendukung: menyediakan sumber daya atau layanan internal.\nManajerial: mengarahkan, mengukur, dan mengendalikan organisasi.\n\n\n\nAktivitas kelas · Peta proses\nGunakan organisasi kampus atau bisnis yang dipahami kelompok. Buat peta berisi 3–5 proses inti, 3 proses pendukung, dan 2 proses manajerial. Hubungkan satu tujuan strategis dengan proses yang paling menentukan keberhasilannya.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "02 · Arsitektur Proses"
+    ]
+  },
+  {
+    "objectID": "materi/02-arsitektur.html#prioritas-perbaikan",
+    "href": "materi/02-arsitektur.html#prioritas-perbaikan",
+    "title": "02 · Arsitektur Proses",
+    "section": "Prioritas perbaikan",
+    "text": "Prioritas perbaikan\nNilai setiap kandidat proses pada skala 1–5.\n\n\n\n\n\n\n\nKriteria\nPertanyaan\n\n\n\n\nKepentingan strategis\nSeberapa besar proses memengaruhi tujuan utama?\n\n\nMasalah saat ini\nSeberapa berat gangguan yang terjadi?\n\n\nKelayakan perubahan\nApakah data, akses, waktu, dan dukungan tersedia?\n\n\n\nSkor prioritas sederhana dapat dihitung sebagai:\n\\[P = 0.4S + 0.35M + 0.25K\\]\ndengan \\(S\\) = strategis, \\(M\\) = masalah, dan \\(K\\) = kelayakan. Bobot perlu disesuaikan dengan konteks.",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "02 · Arsitektur Proses"
+    ]
+  },
+  {
+    "objectID": "materi/02-arsitektur.html#cek-pemahaman",
+    "href": "materi/02-arsitektur.html#cek-pemahaman",
+    "title": "02 · Arsitektur Proses",
+    "section": "Cek pemahaman",
+    "text": "Cek pemahaman\nApa perbedaan peta proses dan bagan organisasi? Mengapa proses dengan skor masalah tertinggi belum tentu menjadi prioritas pertama?",
+    "crumbs": [
+      "Materi",
+      "Fondasi",
+      "02 · Arsitektur Proses"
+    ]
+  },
+  {
+    "objectID": "materi/04-bpmn-dasar.html",
+    "href": "materi/04-bpmn-dasar.html",
+    "title": "04 · BPMN Dasar",
+    "section": "",
+    "text": "Mahasiswa mampu membaca dan membuat diagram BPMN dasar dengan sintaks dan makna yang konsisten.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "04 · BPMN Dasar"
+    ]
+  },
+  {
+    "objectID": "materi/04-bpmn-dasar.html#tujuan-belajar",
+    "href": "materi/04-bpmn-dasar.html#tujuan-belajar",
+    "title": "04 · BPMN Dasar",
+    "section": "",
+    "text": "Mahasiswa mampu membaca dan membuat diagram BPMN dasar dengan sintaks dan makna yang konsisten.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "04 · BPMN Dasar"
+    ]
+  },
+  {
+    "objectID": "materi/04-bpmn-dasar.html#elemen-minimum",
+    "href": "materi/04-bpmn-dasar.html#elemen-minimum",
+    "title": "04 · BPMN Dasar",
+    "section": "Elemen minimum",
+    "text": "Elemen minimum\n\n\n\n\n\n\n\n\nElemen\nMakna\nAturan praktis\n\n\n\n\nStart event\nProses mulai\nNyatakan pemicu yang jelas\n\n\nAktivitas\nPekerjaan dilakukan\nGunakan kata kerja + objek\n\n\nGateway\nPercabangan/penggabungan\nTulis kondisi pada alur keluar\n\n\nEnd event\nProses selesai\nNyatakan hasil akhir\n\n\nSequence flow\nUrutan dalam satu proses\nJangan melintasi batas pool\n\n\n\n\nGateway yang sering digunakan\n\nExclusive (XOR): tepat satu jalur dipilih.\nParallel (AND): semua jalur dijalankan secara paralel.\nInclusive (OR): satu atau beberapa jalur dapat dipilih.\n\n\n\nAktivitas kelas · Dari narasi ke model\nModelkan proses berikut: permintaan pembelian diterima; petugas memeriksa kelengkapan. Jika tidak lengkap, permintaan dikembalikan. Jika lengkap, anggaran dan ketersediaan barang diperiksa secara paralel. Pesanan dibuat hanya jika anggaran disetujui dan barang tersedia.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "04 · BPMN Dasar"
+    ]
+  },
+  {
+    "objectID": "materi/04-bpmn-dasar.html#pemeriksaan-cepat",
+    "href": "materi/04-bpmn-dasar.html#pemeriksaan-cepat",
+    "title": "04 · BPMN Dasar",
+    "section": "Pemeriksaan cepat",
+    "text": "Pemeriksaan cepat\n\nApakah setiap aktivitas memiliki alur masuk dan keluar yang logis?\nApakah kondisi pada XOR saling eksklusif dan lengkap?\nApakah jalur paralel digabungkan kembali bila proses harus menunggu semuanya?\nApakah nama aktivitas menjawab “melakukan apa?”\n\n\n\n\n\n\n\nTipKebiasaan baik\n\n\n\nUtamakan makna sebelum tampilan. Diagram yang cantik tetapi ambigu tetap merupakan model yang lemah.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "04 · BPMN Dasar"
+    ]
+  },
+  {
+    "objectID": "materi/06-validasi-model.html",
+    "href": "materi/06-validasi-model.html",
+    "title": "06 · Validasi dan Kualitas Model",
+    "section": "",
+    "text": "Mahasiswa mampu melakukan walkthrough, menemukan cacat model, dan mendokumentasikan perubahan hasil validasi.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "06 · Validasi dan Kualitas Model"
+    ]
+  },
+  {
+    "objectID": "materi/06-validasi-model.html#tujuan-belajar",
+    "href": "materi/06-validasi-model.html#tujuan-belajar",
+    "title": "06 · Validasi dan Kualitas Model",
+    "section": "",
+    "text": "Mahasiswa mampu melakukan walkthrough, menemukan cacat model, dan mendokumentasikan perubahan hasil validasi.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "06 · Validasi dan Kualitas Model"
+    ]
+  },
+  {
+    "objectID": "materi/06-validasi-model.html#empat-lapis-kualitas",
+    "href": "materi/06-validasi-model.html#empat-lapis-kualitas",
+    "title": "06 · Validasi dan Kualitas Model",
+    "section": "Empat lapis kualitas",
+    "text": "Empat lapis kualitas\n\n\n\nLapis\nPertanyaan\n\n\n\n\nSintaks\nApakah notasi digunakan sesuai aturan?\n\n\nSemantik\nApakah model sesuai dengan proses nyata?\n\n\nPragmatik\nApakah pembaca yang dituju dapat memahaminya?\n\n\nTujuan\nApakah model cukup untuk keputusan yang hendak dibuat?\n\n\n\n\nTeknik token walkthrough\nLetakkan token imajiner pada start event, lalu jalankan setiap kemungkinan kasus hingga end event. Periksa jalur buntu, aktivitas tanpa akhir, sinkronisasi yang salah, dan kondisi yang tidak lengkap.\n\n\nAktivitas kelas · Klinik model\nTukar model dengan kelompok lain. Satu orang membacakan alur hanya dari diagram; pemilik model tidak boleh menjelaskan selama lima menit. Catat asumsi, kebingungan, dan kesalahan menggunakan kategori: sintaks, semantik, pragmatik, atau tujuan.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "06 · Validasi dan Kualitas Model"
+    ]
+  },
+  {
+    "objectID": "materi/06-validasi-model.html#daftar-periksa-validasi",
+    "href": "materi/06-validasi-model.html#daftar-periksa-validasi",
+    "title": "06 · Validasi dan Kualitas Model",
+    "section": "Daftar periksa validasi",
+    "text": "Daftar periksa validasi\n\nRuang lingkup dan versi model tertulis.\nPemicu serta keluaran dapat diverifikasi.\nJalur normal dan pengecualian penting tercakup.\nPeran dan serah-terima sesuai praktik.\nGateway memiliki kondisi yang jelas.\nIstilah konsisten dengan bahasa organisasi.\nPemangku kepentingan telah menyetujui atau memberi catatan.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "06 · Validasi dan Kualitas Model"
+    ]
+  },
+  {
+    "objectID": "materi/06-validasi-model.html#bukti-revisi",
+    "href": "materi/06-validasi-model.html#bukti-revisi",
+    "title": "06 · Validasi dan Kualitas Model",
+    "section": "Bukti revisi",
+    "text": "Bukti revisi\nSimpan issue log dengan kolom: ID, temuan, sumber, dampak, keputusan, pemilik tindak lanjut, dan status. Model yang valid adalah hasil percakapan berbasis bukti, bukan tebakan analis.",
+    "crumbs": [
+      "Materi",
+      "Pemodelan",
+      "06 · Validasi dan Kualitas Model"
+    ]
+  },
+  {
+    "objectID": "materi/08-analisis-kuantitatif.html",
+    "href": "materi/08-analisis-kuantitatif.html",
+    "title": "08 · Analisis Kuantitatif",
+    "section": "",
+    "text": "Mahasiswa mampu menghitung indikator dasar, mengenali bottleneck, dan menghindari kesimpulan yang tidak didukung data.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "08 · Analisis Kuantitatif"
+    ]
+  },
+  {
+    "objectID": "materi/08-analisis-kuantitatif.html#tujuan-belajar",
+    "href": "materi/08-analisis-kuantitatif.html#tujuan-belajar",
+    "title": "08 · Analisis Kuantitatif",
+    "section": "",
+    "text": "Mahasiswa mampu menghitung indikator dasar, mengenali bottleneck, dan menghindari kesimpulan yang tidak didukung data.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "08 · Analisis Kuantitatif"
+    ]
+  },
+  {
+    "objectID": "materi/08-analisis-kuantitatif.html#ukuran-dasar",
+    "href": "materi/08-analisis-kuantitatif.html#ukuran-dasar",
+    "title": "08 · Analisis Kuantitatif",
+    "section": "Ukuran dasar",
+    "text": "Ukuran dasar\n\n\n\n\n\n\n\n\nUkuran\nMakna\nRumus sederhana\n\n\n\n\nWaktu siklus\nWaktu dari awal hingga akhir kasus\nselesai − mulai\n\n\nWaktu proses\nWaktu saat kasus benar-benar dikerjakan\njumlah durasi aktivitas\n\n\nWaktu tunggu\nWaktu tanpa pengerjaan\nsiklus − proses\n\n\nThroughput\nKasus selesai per satuan waktu\nkasus / waktu\n\n\nTingkat kesalahan\nProporsi keluaran yang tidak benar\nkasus cacat / total kasus\n\n\n\nEfisiensi waktu alir:\n\\[\\text{Flow efficiency}=\\frac{\\text{waktu proses}}{\\text{waktu siklus}}\\times 100\\%\\]\nKapasitas aktivitas dengan \\(m\\) sumber daya paralel dan waktu proses rata-rata \\(t\\):\n\\[\\text{kapasitas}=\\frac{m}{t}\\]",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "08 · Analisis Kuantitatif"
+    ]
+  },
+  {
+    "objectID": "materi/08-analisis-kuantitatif.html#contoh-singkat",
+    "href": "materi/08-analisis-kuantitatif.html#contoh-singkat",
+    "title": "08 · Analisis Kuantitatif",
+    "section": "Contoh singkat",
+    "text": "Contoh singkat\nSebuah permohonan selesai dalam 5 hari kerja. Total waktu pengerjaan aktifnya 6 jam atau 0,75 hari kerja. Efisiensi waktu alirnya adalah \\(0{,}75/5=15\\%\\). Artinya, fokus awal analisis sebaiknya bukan hanya mempercepat pekerjaan aktif, tetapi memahami 85% waktu lainnya.\n\nAktivitas kelas · Temukan bottleneck\nHitung kapasitas tiga aktivitas: verifikasi 6 kasus/jam, persetujuan 4 kasus/jam, dan pencatatan 8 kasus/jam. Tentukan bottleneck, kapasitas proses, serta dampak jika permintaan rata-rata 5 kasus/jam.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "08 · Analisis Kuantitatif"
+    ]
+  },
+  {
+    "objectID": "materi/08-analisis-kuantitatif.html#waspadai",
+    "href": "materi/08-analisis-kuantitatif.html#waspadai",
+    "title": "08 · Analisis Kuantitatif",
+    "section": "Waspadai",
+    "text": "Waspadai\n\nRata-rata dapat menyembunyikan variasi dan kasus ekstrem.\nKorelasi tidak otomatis menunjukkan sebab-akibat.\nData sistem dapat kehilangan pekerjaan manual.\nPengukuran harus memiliki definisi awal dan akhir yang konsisten.",
+    "crumbs": [
+      "Materi",
+      "Analisis",
+      "08 · Analisis Kuantitatif"
+    ]
+  },
+  {
+    "objectID": "materi/10-redesign.html",
+    "href": "materi/10-redesign.html",
+    "title": "10 · Perancangan Ulang Proses",
+    "section": "",
+    "text": "Mahasiswa mampu menghasilkan alternatif redesign, menilai konsekuensinya, dan membuat model to-be yang menjawab akar masalah.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "10 · Perancangan Ulang Proses"
+    ]
+  },
+  {
+    "objectID": "materi/10-redesign.html#tujuan-belajar",
+    "href": "materi/10-redesign.html#tujuan-belajar",
+    "title": "10 · Perancangan Ulang Proses",
+    "section": "",
+    "text": "Mahasiswa mampu menghasilkan alternatif redesign, menilai konsekuensinya, dan membuat model to-be yang menjawab akar masalah.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "10 · Perancangan Ulang Proses"
+    ]
+  },
+  {
+    "objectID": "materi/10-redesign.html#prinsip-perbaikan",
+    "href": "materi/10-redesign.html#prinsip-perbaikan",
+    "title": "10 · Perancangan Ulang Proses",
+    "section": "Prinsip perbaikan",
+    "text": "Prinsip perbaikan\n\nHilangkan aktivitas yang tidak memberi nilai atau kontrol penting.\nGabungkan pekerjaan yang terfragmentasi tanpa alasan.\nParalelkan aktivitas yang tidak saling bergantung.\nTempatkan keputusan sedekat mungkin dengan informasi.\nKurangi serah-terima dan penginputan ulang.\nTangkap data sekali, gunakan secara terkendali di banyak titik.\nRancang pengecualian, bukan hanya jalur normal.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "10 · Perancangan Ulang Proses"
+    ]
+  },
+  {
+    "objectID": "materi/10-redesign.html#matriks-alternatif",
+    "href": "materi/10-redesign.html#matriks-alternatif",
+    "title": "10 · Perancangan Ulang Proses",
+    "section": "Matriks alternatif",
+    "text": "Matriks alternatif\n\n\n\nAlternatif\nDampak\nUsaha\nRisiko\nBukti pendukung\n\n\n\n\nA\n1–5\n1–5\n1–5\nData/temuan\n\n\nB\n1–5\n1–5\n1–5\nData/temuan\n\n\n\n\nAktivitas kelas · Studio to-be\nPilih dua akar masalah prioritas. Buat minimal tiga alternatif, termasuk satu perbaikan tanpa teknologi. Pilih alternatif berdasarkan kriteria yang disepakati, lalu gambarkan perubahan pada model to-be.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "10 · Perancangan Ulang Proses"
+    ]
+  },
+  {
+    "objectID": "materi/10-redesign.html#uji-konsistensi",
+    "href": "materi/10-redesign.html#uji-konsistensi",
+    "title": "10 · Perancangan Ulang Proses",
+    "section": "Uji konsistensi",
+    "text": "Uji konsistensi\nSetiap perubahan harus dapat ditelusuri melalui rantai:\n\nBukti → akar masalah → prinsip perbaikan → perubahan model → indikator hasil.\n\n\n\n\n\n\n\nPeringatanJangan melompat ke solusi\n\n\n\nTeknologi dapat mempercepat proses yang salah. Pastikan aturan, peran, dan aliran informasi diperbaiki sebelum atau bersama otomasi.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "10 · Perancangan Ulang Proses"
+    ]
+  },
+  {
+    "objectID": "materi/12-tata-kelola.html",
+    "href": "materi/12-tata-kelola.html",
+    "title": "12 · Tata Kelola dan Pengukuran",
+    "section": "",
+    "text": "Mahasiswa mampu menyusun sistem pengukuran yang seimbang dan menjelaskan peran tata kelola proses.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "12 · Tata Kelola dan Pengukuran"
+    ]
+  },
+  {
+    "objectID": "materi/12-tata-kelola.html#tujuan-belajar",
+    "href": "materi/12-tata-kelola.html#tujuan-belajar",
+    "title": "12 · Tata Kelola dan Pengukuran",
+    "section": "",
+    "text": "Mahasiswa mampu menyusun sistem pengukuran yang seimbang dan menjelaskan peran tata kelola proses.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "12 · Tata Kelola dan Pengukuran"
+    ]
+  },
+  {
+    "objectID": "materi/12-tata-kelola.html#peran-utama",
+    "href": "materi/12-tata-kelola.html#peran-utama",
+    "title": "12 · Tata Kelola dan Pengukuran",
+    "section": "Peran utama",
+    "text": "Peran utama\n\n\n\nPeran\nTanggung jawab\n\n\n\n\nPemilik proses\nKinerja end-to-end dan prioritas perbaikan\n\n\nManajer fungsi\nKapabilitas orang dan sumber daya fungsi\n\n\nAnalis proses\nModel, data, analisis, dan fasilitasi perubahan\n\n\nPelaksana\nEksekusi pekerjaan dan umpan balik operasional\n\n\nSponsor\nDukungan strategis dan penyelesaian hambatan",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "12 · Tata Kelola dan Pengukuran"
+    ]
+  },
+  {
+    "objectID": "materi/12-tata-kelola.html#merancang-kpi",
+    "href": "materi/12-tata-kelola.html#merancang-kpi",
+    "title": "12 · Tata Kelola dan Pengukuran",
+    "section": "Merancang KPI",
+    "text": "Merancang KPI\nGunakan pasangan indikator agar perbaikan satu dimensi tidak merusak yang lain.\n\n\nWaktu\nWaktu siklus, waktu tunggu, ketepatan tenggat.\n\n\nKualitas\nKesalahan, pekerjaan ulang, penyelesaian pertama.\n\n\nNilai\nKepuasan, keberhasilan pelanggan, hasil bisnis.\n\n\n\nAktivitas kelas · KPI tree\nMulai dari satu tujuan proses. Turunkan menjadi 2–4 indikator hasil dan indikator penggerak. Untuk setiap KPI, tentukan definisi, rumus, sumber data, frekuensi, pemilik, target, serta perilaku tidak diinginkan yang mungkin muncul.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "12 · Tata Kelola dan Pengukuran"
+    ]
+  },
+  {
+    "objectID": "materi/12-tata-kelola.html#siklus-pengendalian",
+    "href": "materi/12-tata-kelola.html#siklus-pengendalian",
+    "title": "12 · Tata Kelola dan Pengukuran",
+    "section": "Siklus pengendalian",
+    "text": "Siklus pengendalian\n\n\n\n\n\nflowchart LR\n  A[\"Ukur\"] --&gt; B[\"Bandingkan\"]\n  B --&gt; C[\"Pelajari penyimpangan\"]\n  C --&gt; D[\"Tindak lanjuti\"]\n  D --&gt; A\n\n\n\n\n\n\nTarget harus memicu pembelajaran dan tindakan. Dashboard tanpa percakapan, kepemilikan, dan tindak lanjut tidak menghasilkan perbaikan.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "12 · Tata Kelola dan Pengukuran"
+    ]
+  },
+  {
+    "objectID": "materi/14-presentasi.html",
+    "href": "materi/14-presentasi.html",
+    "title": "14 · Presentasi Rekomendasi",
+    "section": "",
+    "text": "Mahasiswa mampu menyusun narasi rekomendasi, menjelaskan trade-off, dan merespons pertanyaan pemangku kepentingan.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "14 · Presentasi Rekomendasi"
+    ]
+  },
+  {
+    "objectID": "materi/14-presentasi.html#tujuan-belajar",
+    "href": "materi/14-presentasi.html#tujuan-belajar",
+    "title": "14 · Presentasi Rekomendasi",
+    "section": "",
+    "text": "Mahasiswa mampu menyusun narasi rekomendasi, menjelaskan trade-off, dan merespons pertanyaan pemangku kepentingan.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "14 · Presentasi Rekomendasi"
+    ]
+  },
+  {
+    "objectID": "materi/14-presentasi.html#alur-presentasi",
+    "href": "materi/14-presentasi.html#alur-presentasi",
+    "title": "14 · Presentasi Rekomendasi",
+    "section": "Alur presentasi",
+    "text": "Alur presentasi\n\nKonteks: proses, pelanggan, keluaran, dan batas.\nBukti: data, model as-is, dan pengalaman pemangku kepentingan.\nMasalah: akar masalah prioritas dan dampaknya.\nRancangan: model to-be serta perubahan utama.\nDampak: indikator yang diharapkan membaik.\nImplementasi: tahap, pemilik, risiko, dan evaluasi.\n\n\nAktivitas kelas · Executive briefing\nSampaikan rekomendasi dalam tujuh menit dengan maksimal satu model as-is, satu model to-be, satu tabel bukti, dan satu peta jalan. Kelompok lain berperan sebagai sponsor, pengguna, dan pemilik proses.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "14 · Presentasi Rekomendasi"
+    ]
+  },
+  {
+    "objectID": "materi/14-presentasi.html#pertanyaan-yang-perlu-siap-dijawab",
+    "href": "materi/14-presentasi.html#pertanyaan-yang-perlu-siap-dijawab",
+    "title": "14 · Presentasi Rekomendasi",
+    "section": "Pertanyaan yang perlu siap dijawab",
+    "text": "Pertanyaan yang perlu siap dijawab\n\nBukti apa yang mendukung akar masalah?\nMengapa alternatif ini dipilih?\nApa dampak yang diharapkan dan bagaimana mengukurnya?\nSiapa yang terdampak oleh perubahan?\nApa asumsi dan risiko terbesar?\nApa langkah kecil pertama yang dapat diuji?",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "14 · Presentasi Rekomendasi"
+    ]
+  },
+  {
+    "objectID": "materi/14-presentasi.html#penutup",
+    "href": "materi/14-presentasi.html#penutup",
+    "title": "14 · Presentasi Rekomendasi",
+    "section": "Penutup",
+    "text": "Penutup\nRekomendasi yang kuat tidak menjanjikan proses sempurna. Ia menunjukkan hubungan yang dapat ditelusuri antara fakta, keputusan desain, dampak yang diharapkan, dan cara belajar dari implementasi.\nLihat rubrik proyek sebelum presentasi.",
+    "crumbs": [
+      "Materi",
+      "Perbaikan & Implementasi",
+      "14 · Presentasi Rekomendasi"
+    ]
+  },
+  {
+    "objectID": "proyek.html",
+    "href": "proyek.html",
+    "title": "Proyek Akhir",
+    "section": "",
+    "text": "Dalam kelompok, pilih satu proses nyata yang dapat dipelajari secara etis dan realistis selama satu semester. Dokumentasikan proses as-is, analisis masalah dengan bukti, lalu rancang proses to-be serta peta jalan implementasinya."
+  },
+  {
+    "objectID": "proyek.html#tantangan",
+    "href": "proyek.html#tantangan",
+    "title": "Proyek Akhir",
+    "section": "",
+    "text": "Dalam kelompok, pilih satu proses nyata yang dapat dipelajari secara etis dan realistis selama satu semester. Dokumentasikan proses as-is, analisis masalah dengan bukti, lalu rancang proses to-be serta peta jalan implementasinya."
+  },
+  {
+    "objectID": "proyek.html#kriteria-objek-proses",
+    "href": "proyek.html#kriteria-objek-proses",
+    "title": "Proyek Akhir",
+    "section": "Kriteria objek proses",
+    "text": "Kriteria objek proses\nProses sebaiknya:\n\nmemiliki pelanggan dan keluaran yang dapat dijelaskan;\nmelibatkan minimal dua peran;\nmemiliki masalah atau peluang yang dapat diamati;\nmemungkinkan akses data tanpa membahayakan kerahasiaan;\ncukup kecil untuk dianalisis, tetapi cukup kaya untuk diperbaiki."
+  },
+  {
+    "objectID": "proyek.html#tahapan-dan-artefak",
+    "href": "proyek.html#tahapan-dan-artefak",
+    "title": "Proyek Akhir",
+    "section": "Tahapan dan artefak",
+    "text": "Tahapan dan artefak\n\n\n\nTahap\nArtefak minimum\nTitik pemeriksaan\n\n\n\n\n1. Proposal\nBatas proses, tujuan, akses, risiko etika\nPekan 2\n\n\n2. Penemuan\nSIPOC, bukti, model awal as-is\nPekan 5\n\n\n3. Validasi\nBPMN tervalidasi dan issue log\nPekan 7\n\n\n4. Analisis\nAkar masalah dan kinerja dasar\nPekan 9\n\n\n5. Redesign\nAlternatif dan model to-be\nPekan 11\n\n\n6. Rencana\nKPI, risiko, tahapan implementasi\nPekan 13\n\n\n7. Presentasi\nLaporan, diagram, dan briefing\nPekan 14"
+  },
+  {
+    "objectID": "proyek.html#struktur-laporan-akhir",
+    "href": "proyek.html#struktur-laporan-akhir",
+    "title": "Proyek Akhir",
+    "section": "Struktur laporan akhir",
+    "text": "Struktur laporan akhir\n\nRingkasan eksekutif\nKonteks, pelanggan, dan batas proses\nMetode serta sumber bukti\nModel dan validasi proses as-is\nMasalah, akar penyebab, dan ukuran kinerja\nAlternatif perbaikan dan alasan pemilihan\nModel proses to-be\nDampak, KPI, risiko, dan rencana implementasi\nKeterbatasan dan refleksi\nReferensi dan lampiran penting"
+  },
+  {
+    "objectID": "proyek.html#aturan-bukti",
+    "href": "proyek.html#aturan-bukti",
+    "title": "Proyek Akhir",
+    "section": "Aturan bukti",
+    "text": "Aturan bukti\nSetiap klaim utama harus dapat ditelusuri ke observasi, wawancara, dokumen, data sistem, atau literatur. Bila data numerik tidak tersedia, nyatakan batasnya dengan jujur dan jelaskan cara pengukuran yang diusulkan.\n\n\n\n\n\n\nPentingKerahasiaan\n\n\n\nJangan mengunggah data rahasia ke repositori publik. Gunakan data sintetis atau agregat untuk demonstrasi. Dokumen sensitif disimpan hanya pada kanal yang disetujui dosen dan pemilik data."
+  },
+  {
+    "objectID": "proyek.html#definisi-selesai",
+    "href": "proyek.html#definisi-selesai",
+    "title": "Proyek Akhir",
+    "section": "Definisi selesai",
+    "text": "Definisi selesai\nProyek dianggap selesai bila kelompok dapat menunjukkan hubungan yang konsisten:\n\n\n\n\n\nflowchart LR\n  A[\"Bukti\"] --&gt; B[\"Masalah\"]\n  B --&gt; C[\"Akar penyebab\"]\n  C --&gt; D[\"Rancangan to-be\"]\n  D --&gt; E[\"KPI & implementasi\"]"
+  },
+  {
+    "objectID": "silabus.html",
+    "href": "silabus.html",
+    "title": "Rencana Perkuliahan",
+    "section": "",
+    "text": "Komponen\nIsi\n\n\n\n\nProgram studi\nS1 Teknik Informatika\n\n\nKode mata kuliah\nIN255\n\n\nBobot\n[3 SKS]\n\n\nSemester\nR20261\n\n\nDosen\nMeliana\n\n\nKontak\nhttps://meliana.it.maranatha.edu/"
+  },
+  {
+    "objectID": "silabus.html#identitas-mata-kuliah",
+    "href": "silabus.html#identitas-mata-kuliah",
+    "title": "Rencana Perkuliahan",
+    "section": "",
+    "text": "Komponen\nIsi\n\n\n\n\nProgram studi\nS1 Teknik Informatika\n\n\nKode mata kuliah\nIN255\n\n\nBobot\n[3 SKS]\n\n\nSemester\nR20261\n\n\nDosen\nMeliana\n\n\nKontak\nhttps://meliana.it.maranatha.edu/"
+  },
+  {
+    "objectID": "silabus.html#deskripsi",
+    "href": "silabus.html#deskripsi",
+    "title": "Rencana Perkuliahan",
+    "section": "Deskripsi",
+    "text": "Deskripsi\nMata kuliah ini membahas cara organisasi menciptakan nilai melalui rangkaian aktivitas lintas fungsi. Mahasiswa mempelajari siklus manajemen proses bisnis: identifikasi, penemuan, pemodelan, analisis, perancangan ulang, implementasi, pemantauan, dan pengendalian. Pembelajaran berpusat pada kasus, latihan pemodelan, diskusi, dan proyek kelompok."
+  },
+  {
+    "objectID": "silabus.html#capaian-pembelajaran",
+    "href": "silabus.html#capaian-pembelajaran",
+    "title": "Rencana Perkuliahan",
+    "section": "Capaian pembelajaran",
+    "text": "Capaian pembelajaran\nPada akhir perkuliahan, mahasiswa mampu:\n\nMemahami konsep dan arsitektur proses bisnis.\nMemodelkan proses as-is dan to-be menggunakan BPMN secara konsisten.\nMenganalisis masalah proses dengan data kualitatif dan kuantitatif.\nMerancang perbaikan yang selaras dengan tujuan organisasi dan kebutuhan pemangku kepentingan.\nMengomunikasikan rekomendasi secara visual, ringkas, dan berbasis bukti."
+  },
+  {
+    "objectID": "silabus.html#strategi-pembelajaran",
+    "href": "silabus.html#strategi-pembelajaran",
+    "title": "Rencana Perkuliahan",
+    "section": "Strategi pembelajaran",
+    "text": "Strategi pembelajaran\nSetiap pertemuan mengikuti pola singkat berikut:\n\n\n\n\n\nflowchart LR\n  A[\"Pemantik\"] --&gt; B[\"Konsep\"]\n  B --&gt; C[\"Latihan kasus\"]\n  C --&gt; D[\"Umpan balik\"]\n  D --&gt; E[\"Refleksi\"]\n\n\n\n\n\n\nMahasiswa diharapkan membaca materi sebelum kelas, aktif saat latihan, dan menyimpan bukti perkembangan proyek pada repositori kelompok."
+  },
+  {
+    "objectID": "silabus.html#jadwal-14-pertemuan",
+    "href": "silabus.html#jadwal-14-pertemuan",
+    "title": "Rencana Perkuliahan",
+    "section": "Jadwal 14 pertemuan",
+    "text": "Jadwal 14 pertemuan\n\n\n\nPekan\nPokok bahasan\nProduk belajar\n\n\n\n\n1\nCara berpikir proses\nKanvas batas proses\n\n\n2\nArsitektur dan portofolio proses\nPeta proses organisasi\n\n\n3\nPenemuan proses\nCatatan wawancara dan SIPOC\n\n\n4\nBPMN dasar\nModel alur dasar\n\n\n5\nBPMN lanjutan\nModel kolaborasi lintas peran\n\n\n6\nValidasi dan kualitas model\nDaftar temuan validasi\n\n\n7\nAnalisis kualitatif\nAkar masalah dan isu prioritas\n\n\n8\nAnalisis kuantitatif\nPerhitungan kinerja proses\n\n\n9\nSimulasi dan skenario\nPerbandingan skenario\n\n\n10\nPerancangan ulang proses\nModel to-be\n\n\n11\nOtomasi dan transformasi digital\nMatriks peluang otomasi\n\n\n12\nTata kelola dan pengukuran\nKPI dan pemilik proses\n\n\n13\nPengantar process mining\nInterpretasi event log\n\n\n14\nPresentasi proyek\nRekomendasi dan refleksi"
+  },
+  {
+    "objectID": "silabus.html#penilaian",
+    "href": "silabus.html#penilaian",
+    "title": "Rencana Perkuliahan",
+    "section": "Penilaian",
+    "text": "Penilaian\n\n\n\nKomponen\nBobot\nBentuk\n\n\n\n\nPartisipasi dan latihan\n15%\nIndividu/kelompok\n\n\nTugas pemodelan\n20%\nIndividu\n\n\nUjian/analisis kasus tengah semester\n25%\nIndividu\n\n\nProyek akhir\n35%\nKelompok\n\n\nRefleksi akhir\n5%\nIndividu\n\n\nTotal\n100%\n\n\n\n\nDetail instruksi tersedia pada halaman Tugas, Proyek Akhir, dan Rubrik."
+  },
+  {
+    "objectID": "silabus.html#kesepakatan-kelas",
+    "href": "silabus.html#kesepakatan-kelas",
+    "title": "Rencana Perkuliahan",
+    "section": "Kesepakatan kelas",
+    "text": "Kesepakatan kelas\n\nGunakan data organisasi secara etis; anonimisasi nama orang dan informasi sensitif.\nNyatakan sumber ide, data, gambar, dan bantuan teknologi yang digunakan.\nBerikan kritik pada proses atau artefak, bukan pada orangnya.\nJika ada kendala akses atau kebutuhan belajar tertentu, hubungi dosen sedini mungkin.\n\n\n\n\n\n\n\nPentingPerlu disesuaikan\n\n\n\nBobot, kebijakan kehadiran, aturan keterlambatan, dan ketentuan penggunaan AI perlu diselaraskan dengan kebijakan program studi Anda sebelum situs dipublikasikan."
+  }
+]
