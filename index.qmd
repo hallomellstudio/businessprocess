@@ -14,7 +14,7 @@ page-layout: full
 Kita akan belajar membaca cara organisasi bekerja, menggambarkannya secara jelas, menemukan masalah, lalu merancang proses yang lebih baik.
 
 ::: {.hero-actions}
-[Mulai dari materi pertama](materi/01-pengantar.qmd)
+[Mulai dari materi pertama](materi/Materi/01%20Business_Process_Architecture.pdf)
 [Lihat rencana kuliah](silabus.qmd)
 :::
 :::

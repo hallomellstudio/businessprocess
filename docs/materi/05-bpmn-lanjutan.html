@@ -299,13 +299,6 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Glosarium</span></a>
   </li>  
 </ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/USERNAME/NAMA-REPOSITORY"> <i class="bi bi-github" role="img" aria-label="Repositori GitHub">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-</ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alihkan mode gelap"><i class="bi"></i></a>
@@ -486,7 +479,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#prinsip-keterbacaan" id="toc-prinsip-keterbacaan" class="nav-link" data-scroll-target="#prinsip-keterbacaan">Prinsip keterbacaan</a></li>
   <li><a href="#cek-pemahaman" id="toc-cek-pemahaman" class="nav-link" data-scroll-target="#cek-pemahaman">Cek pemahaman</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/USERNAME/NAMA-REPOSITORY/edit/main/materi/05-bpmn-lanjutan.qmd" class="toc-action"><i class="bi bi-github"></i>Sunting laman ini</a></li><li><a href="https://github.com/USERNAME/NAMA-REPOSITORY/issues/new" class="toc-action"><i class="bi empty"></i>Laporkan isu</a></li></ul></div></nav>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -666,7 +659,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/USERNAME\.github\.io\/NAMA-REPOSITORY\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -1018,7 +1011,7 @@ ul.task-list li input[type="checkbox"] {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/USERNAME/NAMA-REPOSITORY/edit/main/materi/05-bpmn-lanjutan.qmd" class="toc-action"><i class="bi bi-github"></i>Sunting laman ini</a></li><li><a href="https://github.com/USERNAME/NAMA-REPOSITORY/issues/new" class="toc-action"><i class="bi empty"></i>Laporkan isu</a></li></ul></div></div>
+    </div>
     <div class="nav-footer-right">
 <p>Dibangun dengan <a href="https://quarto.org/">Quarto</a></p>
 </div>

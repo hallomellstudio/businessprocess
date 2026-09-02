@@ -10,9 +10,6 @@ lang: id
 website:
   title: "Proses Bisnis"
   description: "Ruang belajar untuk memahami, memodelkan, menganalisis, dan memperbaiki proses bisnis."
-  site-url: "https://USERNAME.github.io/NAMA-REPOSITORY/"
-  repo-url: "https://github.com/USERNAME/NAMA-REPOSITORY"
-  repo-actions: [edit, issue]
   page-navigation: true
   back-to-top-navigation: true
   search:
@@ -38,10 +35,6 @@ website:
             href: rubrik.qmd
       - text: "Glosarium"
         href: glosarium.qmd
-    right:
-      - icon: github
-        href: "https://github.com/USERNAME/NAMA-REPOSITORY"
-        aria-label: "Repositori GitHub"
   sidebar:
     - title: "Materi"
       style: docked

@@ -76,17 +76,18 @@ Waktu siklus, kapasitas, biaya, dan kualitas.
 
 [Buka materi →](materi/09%20BPMN_Blueprint.pdf)
 :::
+:::
+
+
+::: {.week-grid}
 ::: {.week-card}
 ### 10
 
 Menguji skenario sebelum perubahan diterapkan.
 
 [Buka materi →](materi/10%20The_BPMN_Blueprint.pdf)
-:::
-:::
 
-
-::: {.week-grid}
+:::
 ::: {.week-card}
 ### 11
 
