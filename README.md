@@ -20,7 +20,7 @@ Untuk membuat seluruh situs tanpa membuka pratinjau:
 quarto render
 ```
 
-Hasil render berada di folder `_site/`.
+Hasil render berada di folder `docs/`.
 
 ## 3. Masukkan ke GitHub
 
@@ -37,13 +37,11 @@ git push -u origin main
 
 ## 4. Aktifkan GitHub Pages
 
-Cara paling langsung untuk menyiapkan branch publikasi pertama:
+Workflow `.github/workflows/publish.yml` akan merender website ke folder `docs/` dan menerbitkannya setiap kali ada *push* ke branch `main`.
 
-```bash
-quarto publish gh-pages
-```
+Pada repositori GitHub, buka **Settings → Pages**, lalu pada bagian **Build and deployment → Source** pilih **GitHub Actions**. Setelah itu, lakukan *push* baru atau jalankan workflow secara manual melalui tab **Actions**.
 
-Setelah itu, workflow `.github/workflows/publish.yml` akan merender dan memperbarui situs setiap kali ada *push* ke branch `main`. Jika workflow tidak dapat menulis, buka **Settings → Actions → General → Workflow permissions** dan pilih **Read and write permissions**.
+Jika Anda memilih metode **Deploy from a branch** alih-alih GitHub Actions, jalankan `quarto render`, masukkan folder `docs/` ke commit, lalu pilih branch `main` dan folder `/docs` pada pengaturan GitHub Pages.
 
 Alamat situs biasanya berbentuk:
 
@@ -62,6 +60,7 @@ https://USERNAME.github.io/NAMA-REPOSITORY/
 ├── proyek.qmd
 ├── rubrik.qmd
 ├── glosarium.qmd
+├── docs/                  # hasil quarto render
 ├── materi/
 │   ├── index.qmd
 │   └── 01-pengantar.qmd ... 14-presentasi.qmd
@@ -77,4 +76,3 @@ https://USERNAME.github.io/NAMA-REPOSITORY/
 4. Jalankan `quarto preview` untuk memeriksa hasil.
 
 Dokumentasi publikasi GitHub Pages: <https://quarto.org/docs/publishing/github-pages.html>
-
