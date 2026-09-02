@@ -67,29 +67,7 @@
     "href": "materi/index.html",
     "title": "Peta Materi",
     "section": "",
-    "text": "Gunakan halaman ini sebagai peta perjalanan. Setiap materi memuat tujuan, konsep inti, aktivitas kelas, dan cek pemahaman.",
-    "crumbs": [
-      "Materi",
-      "Peta Materi"
-    ]
-  },
-  {
-    "objectID": "materi/index.html#fondasi",
-    "href": "materi/index.html#fondasi",
-    "title": "Peta Materi",
-    "section": "Fondasi",
-    "text": "Fondasi\n\n\n01 · Cara berpikir proses\nDari fungsi organisasi menuju aliran nilai.\nBuka materi →\n\n\n02 · Arsitektur proses\nMenghubungkan strategi, proses, dan portofolio.\nBuka materi →\n\n\n03 · Penemuan proses\nMengumpulkan fakta melalui observasi dan wawancara.\nBuka materi →",
-    "crumbs": [
-      "Materi",
-      "Peta Materi"
-    ]
-  },
-  {
-    "objectID": "materi/index.html#pemodelan",
-    "href": "materi/index.html#pemodelan",
-    "title": "Peta Materi",
-    "section": "Pemodelan",
-    "text": "Pemodelan\n\n\n04 · BPMN dasar\nEvent, aktivitas, alur, dan gateway.\nBuka materi →\n\n\n05 · BPMN lanjutan\nKolaborasi, pesan, kejadian, dan pengecualian.\nBuka materi →\n\n\n06 · Validasi model\nMemastikan model benar, lengkap, dan mudah dibaca.\nBuka materi →",
+    "text": "Dari fungsi organisasi menuju aliran nilai.\nBuka materi →\n\n\n\nMenghubungkan strategi, proses, dan portofolio.\nBuka materi →\n\n\n\nMengumpulkan fakta melalui observasi dan wawancara.\nBuka materi →",
     "crumbs": [
       "Materi",
       "Peta Materi"
@@ -100,18 +78,7 @@
     "href": "materi/index.html#analisis",
     "title": "Peta Materi",
     "section": "Analisis",
-    "text": "Analisis\n\n\n07 · Analisis kualitatif\nNilai tambah, pemborosan, risiko, dan akar masalah.\nBuka materi →\n\n\n08 · Analisis kuantitatif\nWaktu siklus, kapasitas, biaya, dan kualitas.\nBuka materi →\n\n\n09 · Simulasi\nMenguji skenario sebelum perubahan diterapkan.\nBuka materi →",
-    "crumbs": [
-      "Materi",
-      "Peta Materi"
-    ]
-  },
-  {
-    "objectID": "materi/index.html#perbaikan-dan-implementasi",
-    "href": "materi/index.html#perbaikan-dan-implementasi",
-    "title": "Peta Materi",
-    "section": "Perbaikan dan implementasi",
-    "text": "Perbaikan dan implementasi\n\n\n10 · Redesign\nPrinsip dan pola perancangan ulang proses.\nBuka materi →\n\n\n11 · Otomasi\nMemilih peluang digitalisasi secara bertanggung jawab.\nBuka materi →\n\n\n12 · Tata kelola\nPemilik proses, KPI, kontrol, dan perbaikan berkelanjutan.\nBuka materi →\n\n\n13 · Process mining\nMelihat proses aktual melalui jejak peristiwa.\nBuka materi →\n\n\n14 · Presentasi\nMembuat rekomendasi yang jelas dan meyakinkan.\nBuka materi →",
+    "text": "Analisis\n\n\n07\nNilai tambah, pemborosan, risiko, dan akar masalah.\nBuka materi → Buka materi2 →\n\n\n09\nWaktu siklus, kapasitas, biaya, dan kualitas.\nBuka materi →\n\n\n10\nMenguji skenario sebelum perubahan diterapkan.\nBuka materi →\n\n\n\n\n11\nPrinsip dan pola perancangan ulang proses.\nBuka materi →\n\n\n12\nMemilih peluang digitalisasi secara bertanggung jawab.\nBuka materi →\n\n\n13\nPemilik proses, KPI, kontrol, dan perbaikan berkelanjutan.\nBuka materi →\n\n\n14\nMelihat proses aktual melalui jejak peristiwa.\n[Pengumpulan Tugas Besar]\n\n\n15 · Presentasi\nMembuat rekomendasi yang jelas dan meyakinkan.",
     "crumbs": [
       "Materi",
       "Peta Materi"
@@ -537,7 +504,7 @@
     "href": "index.html",
     "title": "Proses Bisnis",
     "section": "",
-    "text": "Ruang belajar • Semester [TAHUN/SEMESTER]\n\n\nKita akan belajar membaca cara organisasi bekerja, menggambarkannya secara jelas, menemukan masalah, lalu merancang proses yang lebih baik.\n\nMulai dari materi pertama Lihat rencana kuliah"
+    "text": "Warga FIP • Semester Ganjil 2026/2027\n\n\nKita akan belajar membaca cara organisasi bekerja, menggambarkannya secara jelas, menemukan masalah, lalu merancang proses yang lebih baik.\n\nMulai dari materi pertama Lihat rencana kuliah"
   },
   {
     "objectID": "index.html#orientasi-cepat",
@@ -558,7 +525,7 @@
     "href": "index.html#mulai-minggu-ini",
     "title": "Proses Bisnis",
     "section": "Mulai minggu ini",
-    "text": "Mulai minggu ini\n\n\n\n\n\n\nTipUntuk mahasiswa\n\n\n\nBaca tujuan belajar pada Pertemuan 1, siapkan satu contoh proses yang sering kamu alami, lalu catat pelanggan, pemicu, keluaran, dan masalah utamanya.\n\n\n\n\n\n\n\n\nCatatanUntuk dosen\n\n\n\nGanti teks dalam tanda kurung siku pada _quarto.yml, index.qmd, dan silabus.qmd. Seluruh materi dapat langsung disunting sebagai Markdown."
+    "text": "Mulai minggu ini\n\n\n\n\n\n\nTipUntuk mahasiswa\n\n\n\nBaca tujuan belajar pada Pertemuan 1, siapkan satu contoh proses yang sering kamu alami, lalu catat pelanggan, pemicu, keluaran, dan masalah utamanya."
   },
   {
     "objectID": "index.html#hasil-akhir-mata-kuliah",
@@ -1029,21 +996,21 @@
     "href": "silabus.html",
     "title": "Rencana Perkuliahan",
     "section": "",
-    "text": "Komponen\nIsi\n\n\n\n\nProgram studi\nS1 Teknik Informatika\n\n\nKode mata kuliah\nIN255\n\n\nBobot\n[3 SKS]\n\n\nSemester\nR20261\n\n\nDosen\nMeliana\n\n\nKontak\nhttps://meliana.it.maranatha.edu/"
+    "text": "Komponen\nIsi\n\n\n\n\nProgram studi\nS1 Teknik Informatika\n\n\nKode mata kuliah\nIN255\n\n\nBobot\n3 SKS\n\n\nSemester\nR20261\n\n\nDosen\nMeliana Kontak"
   },
   {
     "objectID": "silabus.html#identitas-mata-kuliah",
     "href": "silabus.html#identitas-mata-kuliah",
     "title": "Rencana Perkuliahan",
     "section": "",
-    "text": "Komponen\nIsi\n\n\n\n\nProgram studi\nS1 Teknik Informatika\n\n\nKode mata kuliah\nIN255\n\n\nBobot\n[3 SKS]\n\n\nSemester\nR20261\n\n\nDosen\nMeliana\n\n\nKontak\nhttps://meliana.it.maranatha.edu/"
+    "text": "Komponen\nIsi\n\n\n\n\nProgram studi\nS1 Teknik Informatika\n\n\nKode mata kuliah\nIN255\n\n\nBobot\n3 SKS\n\n\nSemester\nR20261\n\n\nDosen\nMeliana Kontak"
   },
   {
     "objectID": "silabus.html#deskripsi",
     "href": "silabus.html#deskripsi",
     "title": "Rencana Perkuliahan",
     "section": "Deskripsi",
-    "text": "Deskripsi\nMata kuliah ini membahas cara organisasi menciptakan nilai melalui rangkaian aktivitas lintas fungsi. Mahasiswa mempelajari siklus manajemen proses bisnis: identifikasi, penemuan, pemodelan, analisis, perancangan ulang, implementasi, pemantauan, dan pengendalian. Pembelajaran berpusat pada kasus, latihan pemodelan, diskusi, dan proyek kelompok."
+    "text": "Deskripsi\nMata kuliah ini bertujuan untuk memahami berbagai faktor yang berhubungan dengan pengenalan proses bisnis dan hubungannya dengan teknologi informasi khususnya dalam suatu Enterprise System. Mahasiswa diharapkan dapat memahami konsep dasar Sistem, informasi, dan sistem informasi, konsep manajemen proses, supply chain serta membuat pemodelan sistem informasi dengan menggunakan BPMN (software Bizagi)."
   },
   {
     "objectID": "silabus.html#capaian-pembelajaran",
@@ -1060,24 +1027,10 @@
     "text": "Strategi pembelajaran\nSetiap pertemuan mengikuti pola singkat berikut:\n\n\n\n\n\nflowchart LR\n  A[\"Pemantik\"] --&gt; B[\"Konsep\"]\n  B --&gt; C[\"Latihan kasus\"]\n  C --&gt; D[\"Umpan balik\"]\n  D --&gt; E[\"Refleksi\"]\n\n\n\n\n\n\nMahasiswa diharapkan membaca materi sebelum kelas, aktif saat latihan, dan menyimpan bukti perkembangan proyek pada repositori kelompok."
   },
   {
-    "objectID": "silabus.html#jadwal-14-pertemuan",
-    "href": "silabus.html#jadwal-14-pertemuan",
-    "title": "Rencana Perkuliahan",
-    "section": "Jadwal 14 pertemuan",
-    "text": "Jadwal 14 pertemuan\n\n\n\nPekan\nPokok bahasan\nProduk belajar\n\n\n\n\n1\nCara berpikir proses\nKanvas batas proses\n\n\n2\nArsitektur dan portofolio proses\nPeta proses organisasi\n\n\n3\nPenemuan proses\nCatatan wawancara dan SIPOC\n\n\n4\nBPMN dasar\nModel alur dasar\n\n\n5\nBPMN lanjutan\nModel kolaborasi lintas peran\n\n\n6\nValidasi dan kualitas model\nDaftar temuan validasi\n\n\n7\nAnalisis kualitatif\nAkar masalah dan isu prioritas\n\n\n8\nAnalisis kuantitatif\nPerhitungan kinerja proses\n\n\n9\nSimulasi dan skenario\nPerbandingan skenario\n\n\n10\nPerancangan ulang proses\nModel to-be\n\n\n11\nOtomasi dan transformasi digital\nMatriks peluang otomasi\n\n\n12\nTata kelola dan pengukuran\nKPI dan pemilik proses\n\n\n13\nPengantar process mining\nInterpretasi event log\n\n\n14\nPresentasi proyek\nRekomendasi dan refleksi"
-  },
-  {
-    "objectID": "silabus.html#penilaian",
-    "href": "silabus.html#penilaian",
-    "title": "Rencana Perkuliahan",
-    "section": "Penilaian",
-    "text": "Penilaian\n\n\n\nKomponen\nBobot\nBentuk\n\n\n\n\nPartisipasi dan latihan\n15%\nIndividu/kelompok\n\n\nTugas pemodelan\n20%\nIndividu\n\n\nUjian/analisis kasus tengah semester\n25%\nIndividu\n\n\nProyek akhir\n35%\nKelompok\n\n\nRefleksi akhir\n5%\nIndividu\n\n\nTotal\n100%\n\n\n\n\nDetail instruksi tersedia pada halaman Tugas, Proyek Akhir, dan Rubrik."
-  },
-  {
     "objectID": "silabus.html#kesepakatan-kelas",
     "href": "silabus.html#kesepakatan-kelas",
     "title": "Rencana Perkuliahan",
     "section": "Kesepakatan kelas",
-    "text": "Kesepakatan kelas\n\nGunakan data organisasi secara etis; anonimisasi nama orang dan informasi sensitif.\nNyatakan sumber ide, data, gambar, dan bantuan teknologi yang digunakan.\nBerikan kritik pada proses atau artefak, bukan pada orangnya.\nJika ada kendala akses atau kebutuhan belajar tertentu, hubungi dosen sedini mungkin.\n\n\n\n\n\n\n\nPentingPerlu disesuaikan\n\n\n\nBobot, kebijakan kehadiran, aturan keterlambatan, dan ketentuan penggunaan AI perlu diselaraskan dengan kebijakan program studi Anda sebelum situs dipublikasikan."
+    "text": "Kesepakatan kelas\n\nGunakan data organisasi secara etis; anonimisasi nama orang dan informasi sensitif.\nNyatakan sumber ide, data, gambar, dan bantuan teknologi yang digunakan.\nBerikan kritik pada proses atau artefak, bukan pada orangnya.\nJika ada kendala akses atau kebutuhan belajar tertentu, hubungi dosen sedini mungkin.\n\n\n\n\n\n\n\nPentingPerlu disesuaikan\n\n\n\nBobot, kebijakan kehadiran, aturan keterlambatan, dan ketentuan penggunaan AI perlu diselaraskan dengan kebijakan program studi Anda sebelum dipublikasikan."
   }
 ]

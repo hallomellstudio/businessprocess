@@ -1,6 +1,6 @@
 ---
 title: "Rencana Perkuliahan"
-description: Mata kuliah ini bertujuan untuk memahami berbagai faktor yang berhubungan dengan pengenalan proses bisnis dan hubungannya dengan teknologi informasi khususnya dalam suatu Enterprise System. Mahasiswa diharapkan dapat memahami konsep dasar Sistem, informasi, dan sistem informasi, konsep manajemen proses, supply chain serta membuat pemodelan sistem informasi dengan menggunakan BPMN (software Bizagi).
+
 ---
 
 ## Identitas mata kuliah
@@ -9,14 +9,13 @@ description: Mata kuliah ini bertujuan untuk memahami berbagai faktor yang berhu
 |---|---|
 | Program studi | S1 Teknik Informatika |
 | Kode mata kuliah | IN255 |
-| Bobot | [3 SKS] |
+| Bobot | 3 SKS |
 | Semester | R20261 |
-| Dosen | Meliana |
-| Kontak | https://meliana.it.maranatha.edu/ |
+| Dosen | Meliana [Kontak](https://meliana.it.maranatha.edu/) |
 
 ## Deskripsi
 
-Mata kuliah ini membahas cara organisasi menciptakan nilai melalui rangkaian aktivitas lintas fungsi. Mahasiswa mempelajari siklus manajemen proses bisnis: identifikasi, penemuan, pemodelan, analisis, perancangan ulang, implementasi, pemantauan, dan pengendalian. Pembelajaran berpusat pada kasus, latihan pemodelan, diskusi, dan proyek kelompok.
+Mata kuliah ini bertujuan untuk memahami berbagai faktor yang berhubungan dengan pengenalan proses bisnis dan hubungannya dengan teknologi informasi khususnya dalam suatu Enterprise System. Mahasiswa diharapkan dapat memahami konsep dasar Sistem, informasi, dan sistem informasi, konsep manajemen proses, supply chain serta membuat pemodelan sistem informasi dengan menggunakan BPMN (software Bizagi).
 
 ## Capaian pembelajaran
 
@@ -42,38 +41,6 @@ flowchart LR
 
 Mahasiswa diharapkan membaca materi sebelum kelas, aktif saat latihan, dan menyimpan bukti perkembangan proyek pada repositori kelompok.
 
-## Jadwal 14 pertemuan
-
-| Pekan | Pokok bahasan | Produk belajar |
-|---:|---|---|
-| 1 | Cara berpikir proses | Kanvas batas proses |
-| 2 | Arsitektur dan portofolio proses | Peta proses organisasi |
-| 3 | Penemuan proses | Catatan wawancara dan SIPOC |
-| 4 | BPMN dasar | Model alur dasar |
-| 5 | BPMN lanjutan | Model kolaborasi lintas peran |
-| 6 | Validasi dan kualitas model | Daftar temuan validasi |
-| 7 | Analisis kualitatif | Akar masalah dan isu prioritas |
-| 8 | Analisis kuantitatif | Perhitungan kinerja proses |
-| 9 | Simulasi dan skenario | Perbandingan skenario |
-| 10 | Perancangan ulang proses | Model *to-be* |
-| 11 | Otomasi dan transformasi digital | Matriks peluang otomasi |
-| 12 | Tata kelola dan pengukuran | KPI dan pemilik proses |
-| 13 | Pengantar *process mining* | Interpretasi *event log* |
-| 14 | Presentasi proyek | Rekomendasi dan refleksi |
-
-## Penilaian
-
-| Komponen | Bobot | Bentuk |
-|---|---:|---|
-| Partisipasi dan latihan | 15% | Individu/kelompok |
-| Tugas pemodelan | 20% | Individu |
-| Ujian/analisis kasus tengah semester | 25% | Individu |
-| Proyek akhir | 35% | Kelompok |
-| Refleksi akhir | 5% | Individu |
-| **Total** | **100%** | |
-
-Detail instruksi tersedia pada halaman [Tugas](tugas.qmd), [Proyek Akhir](proyek.qmd), dan [Rubrik](rubrik.qmd).
-
 ## Kesepakatan kelas
 
 - Gunakan data organisasi secara etis; anonimisasi nama orang dan informasi sensitif.
@@ -82,6 +49,5 @@ Detail instruksi tersedia pada halaman [Tugas](tugas.qmd), [Proyek Akhir](proyek
 - Jika ada kendala akses atau kebutuhan belajar tertentu, hubungi dosen sedini mungkin.
 
 ::: {.callout-important title="Perlu disesuaikan"}
-Bobot, kebijakan kehadiran, aturan keterlambatan, dan ketentuan penggunaan AI perlu diselaraskan dengan kebijakan program studi Anda sebelum situs dipublikasikan.
+Bobot, kebijakan kehadiran, aturan keterlambatan, dan ketentuan penggunaan AI perlu diselaraskan dengan kebijakan program studi Anda sebelum dipublikasikan.
 :::
-

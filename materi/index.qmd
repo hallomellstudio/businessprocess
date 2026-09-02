@@ -4,57 +4,52 @@ description: "Empat belas pertemuan untuk mempelajari siklus manajemen proses bi
 toc: false
 ---
 
-Gunakan halaman ini sebagai peta perjalanan. Setiap materi memuat tujuan, konsep inti, aktivitas kelas, dan cek pemahaman.
-
-## Fondasi
-
 ::: {.week-grid}
 ::: {.week-card}
-### 01 · Cara berpikir proses
+### 01
 
 Dari fungsi organisasi menuju aliran nilai.
 
-[Buka materi →](01-pengantar.qmd)
+[Buka materi →](materi/01%20Business_Process_Architecture.pdf)
 :::
 ::: {.week-card}
-### 02 · Arsitektur proses
+### 02
 
 Menghubungkan strategi, proses, dan portofolio.
 
-[Buka materi →](02-arsitektur.qmd)
+[Buka materi →](materi/02%20Information_Systems_Anatomy.pdf)
 :::
 ::: {.week-card}
-### 03 · Penemuan proses
+### 03
 
 Mengumpulkan fakta melalui observasi dan wawancara.
 
-[Buka materi →](03-penemuan.qmd)
+[Buka materi →](materi/03%20The_Corporate_Blueprint.pdf)
 :::
 :::
 
-## Pemodelan
 
 ::: {.week-grid}
 ::: {.week-card}
-### 04 · BPMN dasar
+### 04
 
 Event, aktivitas, alur, dan gateway.
 
-[Buka materi →](04-bpmn-dasar.qmd)
+[Buka materi →](materi/04%20Strategic_Process_Architecture.pdf)
 :::
 ::: {.week-card}
-### 05 · BPMN lanjutan
+### 05
 
 Kolaborasi, pesan, kejadian, dan pengecualian.
 
-[Buka materi →](05-bpmn-lanjutan.qmd)
+[Buka materi →](materi/05%20Strategic_Architecture_Blueprint.pdf)
 :::
 ::: {.week-card}
-### 06 · Validasi model
+### 06
 
 Memastikan model benar, lengkap, dan mudah dibaca.
 
-[Buka materi →](06-validasi-model.qmd)
+[Buka materi →](materi/06%20Operations_Blueprint.pdf)
 :::
 :::
 
@@ -62,65 +57,64 @@ Memastikan model benar, lengkap, dan mudah dibaca.
 
 ::: {.week-grid}
 ::: {.week-card}
-### 07 · Analisis kualitatif
+### 07
 
 Nilai tambah, pemborosan, risiko, dan akar masalah.
 
-[Buka materi →](07-analisis-kualitatif.qmd)
+[Buka materi →](materi/07%20The_Toyota_Blueprint.pdf)
+[Buka materi2 →](materi/07%20KASUS%20Kaizen.docx)
 :::
 ::: {.week-card}
-### 08 · Analisis kuantitatif
+### 09
 
 Waktu siklus, kapasitas, biaya, dan kualitas.
 
-[Buka materi →](08-analisis-kuantitatif.qmd)
+[Buka materi →](materi/09%20BPMN_Blueprint.pdf)
 :::
 ::: {.week-card}
-### 09 · Simulasi
+### 10
 
 Menguji skenario sebelum perubahan diterapkan.
 
-[Buka materi →](09-simulasi.qmd)
+[Buka materi →](materi/10%20The_BPMN_Blueprint.pdf)
 :::
 :::
 
-## Perbaikan dan implementasi
 
 ::: {.week-grid}
 ::: {.week-card}
-### 10 · Redesign
+### 11
 
 Prinsip dan pola perancangan ulang proses.
 
-[Buka materi →](10-redesign.qmd)
+[Buka materi →](materi/11%20Bizagi_Simulation_Blueprint.pdf)
 :::
 ::: {.week-card}
-### 11 · Otomasi
+### 12
 
 Memilih peluang digitalisasi secara bertanggung jawab.
 
-[Buka materi →](11-otomasi.qmd)
+[Buka materi →](materi/12%20BPMN_Refactoring_Blueprint.pdf)
 :::
 ::: {.week-card}
-### 12 · Tata kelola
+### 13
 
 Pemilik proses, KPI, kontrol, dan perbaikan berkelanjutan.
 
-[Buka materi →](12-tata-kelola.qmd)
+[Buka materi →](materi/13%20BPMN_2.0_Architecture_Blueprint.pdf)
 :::
 ::: {.week-card}
-### 13 · Process mining
+### 14
 
 Melihat proses aktual melalui jejak peristiwa.
 
-[Buka materi →](13-process-mining.qmd)
+[Pengumpulan Tugas Besar]
 :::
 ::: {.week-card}
-### 14 · Presentasi
+### 15 · Presentasi
 
 Membuat rekomendasi yang jelas dan meyakinkan.
 
-[Buka materi →](14-presentasi.qmd)
 :::
 :::
 
